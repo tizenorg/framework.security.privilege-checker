@@ -709,9 +709,6 @@ msgstr "אנשי קשר"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "דפדפן"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "הודעות"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "ניהול הגדרות של יישום מקוון"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "מאפשר ליישום לנהל את הגדרות יישום האינטרנט, כולל הסרת כל קובצי ה-Cookie שנשמרו עבור יישום אינטרנט זה"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "העברת הודעות"
 

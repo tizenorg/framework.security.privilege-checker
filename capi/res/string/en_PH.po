@@ -709,9 +709,6 @@ msgstr "Contacts"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Messaging"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Managing web application settings"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Allows the application to manage the web application settings, including removing all the cookies saved for this web application"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Messaging"
 

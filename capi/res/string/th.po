@@ -709,9 +709,6 @@ msgstr "รายชื่อ"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "อินเตอร์​เน็ต"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "​ข้อ​ความ"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "กำลังจัดการการตั้งค่าเว็
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "อนุญาตให้แอพพลิเคชั่นจัดการ การตั้งค่าเว็บแอพพลิเคชั่น รวมทั้งลบคุกกี้ทั้งหมดที่บันทึกไว้ สำหรับเว็บแอพพลิเคชั่นนี้"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "ข้อ​ความ"
 

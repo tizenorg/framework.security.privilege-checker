@@ -709,9 +709,6 @@ msgstr "संपर्क"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "इंटरनेट"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "सन्देश"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -725,7 +722,7 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_DEFAULT_APPLICATION_PREFERENCES_M_NOUN"
 msgstr "डिफ़ॉल्ट एप्लीकेशन प्राथमिकताएँ प्रबंधित करना"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_RETRIEVE_INFORMATION_RELATED_TO_OTHER_APPLICATIONS"
-msgstr "एप्लीकेशन को अन्य एप्लीकेशन से संबंधित जानकारी पुनर्प्राप्त करने की अनुमति देता है"
+msgstr "एप्लीकेशन को अन्य एप्लीकेशन से संबंधित जानकारी पुनःप्राप्त करने की अनुमति देता है"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_READ_AND_UPDATE_DEFAULT_APPLICATION_PREFERENCES"
 msgstr "एप्लीकेशन को डिफ़ाल्ट एप्लीकेशन प्राथमिकताएँ पढ़ने और अपडेट करने की अनुमति देता है"
@@ -756,4 +753,7 @@ msgstr "वेब एप्लीकेशन सेटिंग्स प्र
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "एप्लीकेशन को, इस वेब एप्लीकेशन के लिए सुरक्षित की गई सभी कूकीज़ को निकालने सहित वेब एप्लीकेशन सेटिंग्स प्रबंधित करने की अनुमति देता है"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "संदेश"
 

@@ -709,9 +709,6 @@ msgstr "Επαφές"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Μηνυμάτων"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Διαχείριση ρυθμίσεων εφαρμογών web"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Επιτρέπει στην εφαρμογή τη διαχείριση ρυθμίσεων εφαρμογών web, όπως η κατάργηση όλων των cookie που έχουν αποθηκευτεί για αυτήν την εφαρμογή web"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Ανταλλαγή μηνυμάτων"
 

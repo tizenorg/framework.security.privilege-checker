@@ -709,9 +709,6 @@ msgstr "Rubrica"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Messaggi"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Gestione delle impostazioni dell'applicazione Web"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Consente all'applicazione di gestire le impostazioni dell'applicazione Web, inclusa la rimozione di tutti i cookie salvati per quest'applicazione Web"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Messaggi"
 

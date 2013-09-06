@@ -709,9 +709,6 @@ msgstr "Teagmhálaithe"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Idirlíon"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Cur teachtaireachtaí"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -725,10 +722,10 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_DEFAULT_APPLICATION_PREFERENCES_M_NOUN"
 msgstr "Tosaíochtaí réamhshocraithe feidhmchláir a bhainistiú"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_RETRIEVE_INFORMATION_RELATED_TO_OTHER_APPLICATIONS"
-msgstr "Ligtear don fheidhmchlár faisnéis a bhaineann le feidhmchláir eile a aisghabháil"
+msgstr "Ceadaítear don fheidhmchlár faisnéis a bhaineann le feidhmchláir eile a aisghabháil"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_READ_AND_UPDATE_DEFAULT_APPLICATION_PREFERENCES"
-msgstr "Ligtear don fheidhmchlár tosaíochtaí réamhshocraithe feidhmchláir a léamh agus a nuashonrú"
+msgstr "Ceadaítear don fheidhmchlár tosaíochtaí réamhshocraithe feidhmchláir a léamh agus a nuashonrú"
 
 msgid "IDS_TPLATFORM_OPT_LOCATION_T_LBS"
 msgstr "Suíomh"
@@ -755,5 +752,8 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_WEB_APPLICATION_SETTINGS_M_NOUN"
 msgstr "Socruithe feidhmchláir ghréasáin a bhainistiú"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
-msgstr "Ligtear don fheidhmchlár socruithe an fheidhmchláir ghréasáin a bhainistiú, lena n-áirítear gach fianán a shábháiltear don fheidhmchlár gréasáin seo a bhaint"
+msgstr "Ceadaítear don fheidhmchlár socruithe an fheidhmchláir ghréasáin a bhainistiú, lena n-áirítear gach fianán a shábháiltear don fheidhmchlár gréasáin seo a bhaint."
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Seoladh teachtaireachtaí"
 

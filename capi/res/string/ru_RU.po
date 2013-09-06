@@ -709,9 +709,6 @@ msgstr "Контакты"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Интернет"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Обмен сообщениями"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Управление параметрами веб-приложений"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Позволяет приложению управлять параметрами веб-приложений, в том числе удалять сохраненные для них файлы cookie"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Сообщения"
 

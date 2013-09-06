@@ -709,9 +709,6 @@ msgstr "رابطے"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "انٹرنیٹ"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "پیغام رسانی"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "ویب ایپلیکیشن سیٹنگز بندوبست کرنا"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "ایپلیکیشن کو ویب ایپلیکیشن سیٹنگز کا بندوبست کرنے کی اجازت دیتا ہے، جس میں اس ویب ایپلیکیشن کے لئے محفوظ کردہ تمام کوکیز ہٹانا شامل ہے"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "پیغام"
 

@@ -50,7 +50,7 @@ msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_ACCESS_THE_INTERNET"
 msgstr "Дозволяє програмі отримувати доступ до Інтернету"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_ACCESS_TO_SECURE_SMART_CARD_CHIP_SUCH_AS_UICC_SIM_EMBEDDED_SECURE_ELEMENT_OR_SECURE_SD_CARD"
-msgstr "Дозволяє отримати доступ до чіпу захищеної смарт-карти, наприклад до UICC/SIM, вбудованого елементу безпеки або захищеної карти пам'яті"
+msgstr "Дозволяє програмі отримати доступ до чіпу захищеної смарт-карти, наприклад до UICC/SIM, вбудованого елементу безпеки або захищеної карти пам'яті"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_ADD_AND_REMOVE_SHORTCUTS_FROM_THE_HOME_SCREEN"
 msgstr "Дозволяє програмі додавати та видаляти клавіші швидкого доступу з екрану оформлення"
@@ -709,9 +709,6 @@ msgstr "Контакти"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Інтернет"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Обмін повідомленнями"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -755,5 +752,8 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_WEB_APPLICATION_SETTINGS_M_NOUN"
 msgstr "Керування установками веб-програм"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
-msgstr "Дозволяє програмі керувати установками веб-програм, включно із видаленням усіх файлів cookies, збережених для цієї веб-програми"
+msgstr "Дозволяє програмі керувати установками веб-програм, включаючи видалення усіх файлів cookies, збережених для цієї веб-програми"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Обмін повідомленнями"
 

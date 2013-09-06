@@ -709,9 +709,6 @@ msgstr "Kontakti"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internets"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Ziņapmaiņa"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Tīmekļa programmu iestatījumu pārvaldība"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Ļauj programmai pārvaldīt tīmekļa programmas iestatījumus, tostarp visu šai tīmekļa programmai saglabāto sīkfailu noņemšanu"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Ziņojumapmaiņa"
 

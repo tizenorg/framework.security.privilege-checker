@@ -709,9 +709,6 @@ msgstr "Imenik"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Poruke"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -725,7 +722,7 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_DEFAULT_APPLICATION_PREFERENCES_M_NOUN"
 msgstr "Upravljanje zadanim postavkama aplikacije"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_RETRIEVE_INFORMATION_RELATED_TO_OTHER_APPLICATIONS"
-msgstr "Dopušta aplikaciji preuzimanje informacija povezanih uz druge aplikacije"
+msgstr "Dopušta aplikaciji preuzimanje informacija vezanih uz druge aplikacije"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_READ_AND_UPDATE_DEFAULT_APPLICATION_PREFERENCES"
 msgstr "Dopušta aplikaciji čitanje i aktualizaciju zadanih postavki aplikacije"
@@ -755,5 +752,8 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_WEB_APPLICATION_SETTINGS_M_NOUN"
 msgstr "Upravljanje postavkama internetskih aplikacija"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
-msgstr "Dopušta aplikaciji upravljanje postavkama internetske aplikacije, uključujući uklanjanje svih kolačića spremljenih za ovu internetsku aplikaciju"
+msgstr "Dopušta aplikaciji upravljanje postavkama web aplikacije, uključujući uklanjanje svih kolačića spremljenih za ovu web aplikaciju"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Poruke"
 

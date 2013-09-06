@@ -709,9 +709,6 @@ msgstr "联系人"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "网络"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "信息"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "管理网络应用程序设置"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "允许应用程序管理网络应用程序设置，包括移除为该网络应用程序保存的所有 cookies"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "讯息"
 

@@ -709,9 +709,6 @@ msgstr "Kontakti"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Poruke"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Upravljanje podešavanjima web aplikacija"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Dozvoljava aplikaciji da upravlja podešavanjima web aplikacija, uključujući i uklanjanje svih kolačića za tu web aplikaciju"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Poruke"
 

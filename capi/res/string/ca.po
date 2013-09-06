@@ -709,9 +709,6 @@ msgstr "Contactes"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Missatgeria"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Gestió d'ajustaments d'aplicacions web"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Permet a l'aplicació gestionar els ajustaments d'aplicacions web, com ara eliminar totes les galetes desades per a aquesta aplicació web"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Missatgeria"
 

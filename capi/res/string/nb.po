@@ -709,9 +709,6 @@ msgstr "Kontakter"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internett"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Meldinger"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Administrere innstillinger for nettprogrammer"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Gir programmet tillatelse til å administrere innstillingene for nettprogrammer, deriblant fjerning av alle informasjonskapslene som er lagret for dette nettprogrammet"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Meldinger"
 

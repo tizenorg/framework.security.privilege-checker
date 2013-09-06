@@ -709,9 +709,6 @@ msgstr "دفتر تلفن"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "اینترنت"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "پيام رسانی"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "مدیریت تنظیمات برنامه وب"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "به برنامه اجازه می دهد تنظیمات برنامه وب از جمله حذف همه کوکی های ذخیره شده برای این برنامه وب را مدیریت کند"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "پيام رسانی"
 

@@ -709,9 +709,6 @@ msgstr "kontakter"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Meddelelser"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -725,7 +722,7 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_DEFAULT_APPLICATION_PREFERENCES_M_NOUN"
 msgstr "Administrerer standard programpræferencer"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_RETRIEVE_INFORMATION_RELATED_TO_OTHER_APPLICATIONS"
-msgstr "Tillader, at programmet henter oplysninger relateret til andre programmer"
+msgstr "Tillader, at programmet henter oplysninger relaterede til andre programmer"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_READ_AND_UPDATE_DEFAULT_APPLICATION_PREFERENCES"
 msgstr "Tillader, at programmet læser og opdaterer standard programpræferencer"
@@ -756,4 +753,7 @@ msgstr "Administrerer indstillinger for internetprogrammer"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Tillader, at programmet administrerer indstillinger for internetprogrammet, herunder at fjerne alle cookies, der er gemt for dette internetprogram"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Meddelelser"
 

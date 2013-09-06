@@ -709,9 +709,6 @@ msgstr "Kontakty"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Správy"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Spravovanie nastavení webových aplikácií"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Umožňuje aplikácii spravovať nastavenia webovej aplikácie vrátane odstránenia všetkých súborov cookie uložených pre túto webovú aplikáciu"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Správy"
 

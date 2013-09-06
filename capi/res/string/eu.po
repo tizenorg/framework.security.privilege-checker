@@ -709,9 +709,6 @@ msgstr "Kontaktuak"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Mezularitza"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Web aplikazio ezarpenak kudeatzea"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Aplikazioari web aplikazioaren ezarpenak kudeatzen uzten dio, baita web aplikazio honetan gordetako cookie guztiak kentzen ere"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Mezularitza"
 

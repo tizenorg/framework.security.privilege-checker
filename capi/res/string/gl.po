@@ -709,9 +709,6 @@ msgstr "Contactos"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Mensaxería"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Administración de axustes de aplicacións web"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Permite á aplicación xestionar axustes de aplicacións web, incluída a eliminación de todas as cookies gardadas para esta aplicación web"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Envío de mensaxes"
 

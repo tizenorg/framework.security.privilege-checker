@@ -709,9 +709,6 @@ msgstr "Adresatai"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internetas"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Žinutės"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Žiniatinklio programų nustatymų tvarkymas"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Leidžia programai tvarkyti žiniatinklio programų nustatymus, taip pat pašalinti visus šiai žiniatinklio programai išsaugotus slapukus"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Žinutės"
 

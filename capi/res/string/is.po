@@ -709,9 +709,6 @@ msgstr "Tengiliðir"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Netið"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Skilaboðasamskipti"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Umsjón með vefforritastillingum"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Leyfir forritinu að hafa umsjón með stillingum vefforritsins, þ. á m. að fjarlægja öll vistuð fótspor þessa vefforrits"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Skilaboð"
 

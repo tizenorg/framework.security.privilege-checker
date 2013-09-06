@@ -709,9 +709,6 @@ msgstr "連絡先"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "ブラウザ"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "SMS"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -728,7 +725,7 @@ msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_RETRIEVE_INFORMATION_RELATED
 msgstr "他のアプリケーションに関連する情報の取得をアプリケーションに許可します。"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_READ_AND_UPDATE_DEFAULT_APPLICATION_PREFERENCES"
-msgstr "標準アプリケーションの設定読み取りと更新をアプリケーションに許可します。"
+msgstr "標準アプリケーション設定の読み取りと更新をアプリケーションに許可します。"
 
 msgid "IDS_TPLATFORM_OPT_LOCATION_T_LBS"
 msgstr "位置情報"
@@ -737,7 +734,7 @@ msgid "IDS_TPLATFORM_BODY_PERSONAL_INFORMATION_ABB"
 msgstr "個人情報"
 
 msgid "IDS_TPLATFORM_BODY_HARDWARE_CONTROLS_ABB"
-msgstr "ハードウェアコントロール"
+msgstr "ハードウェアをコントロール"
 
 msgid "IDS_TPLATFORM_BODY_NETWORK_CONNECTIONS_ABB"
 msgstr "ネットワーク接続"
@@ -755,5 +752,8 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_WEB_APPLICATION_SETTINGS_M_NOUN"
 msgstr "Webアプリケーション設定の管理"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
-msgstr "このWebアプリケーションに保存されている全てのCookieの消去など、Webアプリケーション設定の管理をアプリケーションに許可します。"
+msgstr "Webアプリケーションに保存されている全てのCookieの消去などを含め、Webアプリケーション設定の管理をアプリケーションに許可します。"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "メッセージ"
 

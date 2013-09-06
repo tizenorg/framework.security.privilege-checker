@@ -709,9 +709,6 @@ msgstr "Yhteystiedot"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "Internet"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "Viestinvälitys"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "Verkkosovelluksen asetusten hallinta"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "Antaa sovelluksen hallita verkkosovelluksen asetuksia, muun muassa poistaa kaikki tätä verkkosovellusta varten tallennetut evästeet"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Viestit"
 

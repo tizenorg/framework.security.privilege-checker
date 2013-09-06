@@ -709,9 +709,6 @@ msgstr "연락처"
 msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
 msgstr "인터넷"
 
-msgid "IDS_TPLATFORM_OPT_MESSAGING_ABB"
-msgstr "메시지"
-
 msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
@@ -756,4 +753,7 @@ msgstr "웹 애플리케이션 설정 관리"
 
 msgid "IDS_TPLATFORM_BODY_ALLOWS_THE_APPLICATION_TO_MANAGE_THE_WEB_APPLICATION_SETTINGS_MSG"
 msgstr "웹 애플리케이션을 위해 저장된 쿠키를 모두 삭제하는 것을 포함하여 웹 애플리케이션 설정을 애플리케이션이 관리하도록 허용합니다"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "메시지"
 
