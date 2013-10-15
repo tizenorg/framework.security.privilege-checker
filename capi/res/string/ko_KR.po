@@ -757,3 +757,6 @@ msgstr "웹 애플리케이션을 위해 저장된 쿠키를 모두 삭제하는
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "메시지"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "통화기록"
+

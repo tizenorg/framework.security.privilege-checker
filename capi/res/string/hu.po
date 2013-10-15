@@ -757,3 +757,6 @@ msgstr "Lehetővé teszi az alkalmazás számára a webalkalmazás beállítása
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Üzenetek"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Hívásnapló"
+

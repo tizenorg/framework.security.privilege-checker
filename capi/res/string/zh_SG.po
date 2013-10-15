@@ -757,3 +757,6 @@ msgstr "允许应用程序管理网络应用程序设置，包括移除为该网
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "讯息"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "通讯记录"
+

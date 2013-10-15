@@ -757,3 +757,6 @@ msgstr "به برنامه اجازه می دهد تنظیمات برنامه و�
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "پيام رسانی"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "ليست تماس ها"
+

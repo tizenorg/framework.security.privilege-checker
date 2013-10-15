@@ -757,3 +757,6 @@ msgstr "Позволяет приложению управлять параме�
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Сообщения"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Журнал"
+

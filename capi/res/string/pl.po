@@ -757,3 +757,6 @@ msgstr "Umożliwia aplikacji zarządzanie ustawieniami aplikacji internetowej, w
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "SMS/MMS"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Spis poł."
+

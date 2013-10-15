@@ -757,3 +757,6 @@ msgstr "Permite à aplicação gerir as definições da aplicação da Web, incl
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Mensagens"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Reg. ch."
+

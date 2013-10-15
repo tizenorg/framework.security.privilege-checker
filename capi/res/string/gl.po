@@ -757,3 +757,6 @@ msgstr "Permite á aplicación xestionar axustes de aplicacións web, incluída 
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Envío de mensaxes"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Rex. chamada"
+

@@ -757,3 +757,6 @@ msgstr "السماح للتطبيق بإدارة إعدادات تطبيق ال�
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "الرسائل"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "سجل المكالمات"
+

@@ -757,3 +757,6 @@ msgstr "מאפשר ליישום לנהל את הגדרות יישום האינט
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "העברת הודעות"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "יומן שיחות"
+

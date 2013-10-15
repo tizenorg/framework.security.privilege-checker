@@ -757,3 +757,6 @@ msgstr "Ermöglicht der App die Einstellungsverwaltung der Web-Anwendung, darunt
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Nachrichten"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Anrufliste"
+

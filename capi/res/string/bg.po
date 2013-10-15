@@ -757,3 +757,6 @@ msgstr "Позволява на приложението да управлява
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Изпращане на съобщения"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Дневник пов"
+

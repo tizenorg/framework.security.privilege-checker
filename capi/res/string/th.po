@@ -757,3 +757,6 @@ msgstr "อนุญาตให้แอพพลิเคชั่นจัด
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "ข้อ​ความ"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "บันทึก​ข้อ   มูล​การ​ใช้"
+

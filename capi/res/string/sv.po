@@ -757,3 +757,6 @@ msgstr "Gör så att programmet kan hantera inställningarna för webbprogrammet
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Meddelandehantering"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Samt.logg"
+

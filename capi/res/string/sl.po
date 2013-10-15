@@ -757,3 +757,6 @@ msgstr "Aplikacijam omogoča upravljanje nastavitev za spletne aplikacije, vklju
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Sporočanje"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Dnev. kl."
+

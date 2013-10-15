@@ -757,3 +757,6 @@ msgstr "Permite ao aplicativo gerenciar as configurações do aplicativo web, in
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Mensagens"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Chamadas"
+

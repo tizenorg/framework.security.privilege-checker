@@ -757,3 +757,6 @@ msgstr "Leyfir forritinu að hafa umsjón með stillingum vefforritsins, þ. á 
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Skilaboð"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Símtöl"
+

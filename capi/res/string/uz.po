@@ -757,3 +757,6 @@ msgstr "Ilovaga veb-ilova parametrlarini, jumladan, ushbu veb-ilova uchun saqlan
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Xabarlar"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Qo‘ng‘iroq jurnali"
+

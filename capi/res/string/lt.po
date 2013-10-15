@@ -757,3 +757,6 @@ msgstr "Leidžia programai tvarkyti žiniatinklio programų nustatymus, taip pat
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Žinutės"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Skamb. žur."
+

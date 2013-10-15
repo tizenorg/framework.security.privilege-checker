@@ -757,3 +757,6 @@ msgstr "Permite aplicaţiei să gestioneze setările pentru aplicaţii web, incl
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Mesaje"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Jurnal ap."
+

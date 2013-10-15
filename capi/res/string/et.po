@@ -757,3 +757,6 @@ msgstr "Lubab rakendusel hallata veebirakenduse seadeid, sealhulgas eemaldada k�
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Sõnumid"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Kõnelogi"
+

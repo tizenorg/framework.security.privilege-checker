@@ -713,7 +713,7 @@ msgid "IDS_TPLATFORM_OPT_NFC"
 msgstr "NFC"
 
 msgid "IDS_TPLATFORM_OPT_WI_FI_DIRECT_ABB"
-msgstr "Wi-Fi डायरेक्ट"
+msgstr "Wi-Fi Direct"
 
 msgid "IDS_TPLATFORM_BODY_RETRIEVING_APPLICATION_INFORMATION_M_NOUN"
 msgstr "एप्लीकेशन जानकारी पुनर्प्राप्त कर रहा है"
@@ -756,4 +756,7 @@ msgstr "एप्लीकेशन को, इस वेब एप्लीक�
 
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "संदेश"
+
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "कॉल लॉग"
 

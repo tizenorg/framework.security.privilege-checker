@@ -757,3 +757,6 @@ msgstr "Permite que la aplicación administre la configuración de las aplicacio
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Mensajería"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Llamadas"
+

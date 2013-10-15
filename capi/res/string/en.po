@@ -757,3 +757,6 @@ msgstr "Allows the application to manage the web application settings, including
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Messaging"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Call log"
+

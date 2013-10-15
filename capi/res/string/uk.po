@@ -757,3 +757,6 @@ msgstr "Дозволяє програмі керувати установкам�
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Обмін повідомленнями"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Журнал викл."
+

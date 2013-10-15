@@ -757,3 +757,6 @@ msgstr "ایپلیکیشن کو ویب ایپلیکیشن سیٹنگز کا بن
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "پیغام"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "کال کا لاگ"
+

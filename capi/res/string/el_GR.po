@@ -757,3 +757,6 @@ msgstr "Επιτρέπει στην εφαρμογή τη διαχείριση �
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Ανταλλαγή μηνυμάτων"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Μητρ.κλ"
+

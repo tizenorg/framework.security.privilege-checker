@@ -757,3 +757,6 @@ msgstr "Dozvoljava aplikaciji da upravlja podešavanjima web aplikacija, uključ
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Poruke"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Dnev.poz."
+

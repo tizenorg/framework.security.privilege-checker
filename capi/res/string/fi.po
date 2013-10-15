@@ -757,3 +757,6 @@ msgstr "Antaa sovelluksen hallita verkkosovelluksen asetuksia, muun muassa poist
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Viestit"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Puh.loki"
+

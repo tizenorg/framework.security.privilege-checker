@@ -757,3 +757,6 @@ msgstr "Proqrama veb-proqram parametrlərini, eləcə də, bu veb-proqram üçü
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Mesajlaşma"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Zəng jurnalı"
+

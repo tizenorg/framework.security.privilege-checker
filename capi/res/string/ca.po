@@ -757,3 +757,6 @@ msgstr "Permet a l'aplicació gestionar els ajustaments d'aplicacions web, com a
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Missatgeria"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Reg. trucad."
+

@@ -757,3 +757,6 @@ msgstr "Թույլ է տալիս, որ ծրագիրը կառավարի համա�
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Հաղորդագրությունների ուղարկում"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Կնչ գրմտն"
+

@@ -757,3 +757,6 @@ msgstr "Dopušta aplikaciji upravljanje postavkama web aplikacije, uključujući
 msgid "IDS_TPLATFORM_BODY_MESSAGING"
 msgstr "Poruke"
 
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Pozivi"
+
