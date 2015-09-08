@@ -1,0 +1,765 @@
+msgid "IDS_TPLATFORM_BODY_ACCESSING_EXPORTED_DATA"
+msgstr "İxrac edilmiş məlumatlara giriş"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_INTERNET"
+msgstr "İnternetə giriş"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_MESSAGES"
+msgstr "Mesajlara giriş"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_SECURE_ELEMENTS"
+msgstr "Qorunan elementlərə giriş"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_TELEPHONY_INFORMATION"
+msgstr "Telefon məlumatına daxil olmaq"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_UNLIMITED_STORAGE"
+msgstr "Limitsiz yaddaşa daxil olmaq"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_USER_SETTINGS"
+msgstr "İstifadəçi parametrlərinə daxil olmaq"
+
+msgid "IDS_TPLATFORM_BODY_CLOSING_APPLICATIONS"
+msgstr "Proqramları bağlamaq"
+
+msgid "IDS_TPLATFORM_BODY_DOWNLOADING_VIA_HTTP"
+msgstr "HTTP vasitəsilə yükləmək"
+
+msgid "IDS_TPLATFORM_BODY_GETTING_APPLICATION_CERTIFICATES"
+msgstr "Proqram sertifikatlarını əldə etmək"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_ACCOUNTS"
+msgstr "Hesabları idarə etmək"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_BLUETOOTH_SYSTEM_SETTINGS"
+msgstr "Bluetooth sistem parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_BOOKMARKS"
+msgstr "Əlfəcinlərin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CALENDAR"
+msgstr "Təqvimin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CALL_LOGS"
+msgstr "Zəng jurnallarının idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CONTACTS"
+msgstr "Kontaktları idarə etmək"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CONTENT"
+msgstr "Məzmunu idarə etmək"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_INPUT_METHODS"
+msgstr "Daxiletmə metodlarını idarə etmək"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_NFC_GENERAL_SETTINGS"
+msgstr "NFC ümumi parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_PACKAGES"
+msgstr "Paketlərin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_POWER"
+msgstr "Enerjinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_OPENING_APPLICATIONS"
+msgstr "Poqramların açılması"
+
+msgid "IDS_TPLATFORM_BODY_PROVIDING_NOTIFICATIONS"
+msgstr "Bildirişlərin təmin edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_PUSHING_NFC_MESSAGES"
+msgstr "NFC mesajlarının göndərilməsi"
+
+msgid "IDS_TPLATFORM_BODY_READING_ACCOUNTS"
+msgstr "Hesabların oxunması"
+
+msgid "IDS_TPLATFORM_BODY_READING_BOOKMARKS"
+msgstr "Əlfəcinlərin oxunması"
+
+msgid "IDS_TPLATFORM_BODY_READING_CALENDAR"
+msgstr "Təqvimin oxunması"
+
+msgid "IDS_TPLATFORM_BODY_READING_CALL_LOGS"
+msgstr "Zəng jurnallarının oxunması"
+
+msgid "IDS_TPLATFORM_BODY_READING_CONTACTS"
+msgstr "Kontaktların oxunması"
+
+msgid "IDS_TPLATFORM_BODY_READING_CONTENT"
+msgstr "Məzmunu oxumaq"
+
+msgid "IDS_TPLATFORM_BODY_READING_FILE_SYSTEMS"
+msgstr "Fayl sistemlərini oxumaq"
+
+msgid "IDS_TPLATFORM_BODY_READING_SECURE_SYSTEM_INFORMATION"
+msgstr "Təhlükəsizlik sistemi məlumatını oxumaq"
+
+msgid "IDS_TPLATFORM_BODY_READING_SYSTEM_INFORMATION"
+msgstr "Sistem məlumatını oxumaq"
+
+msgid "IDS_TPLATFORM_BODY_READING_WRITING_TO_NFC_TAGS"
+msgstr "NFC etiketini oxumaq/yazmaq"
+
+msgid "IDS_TPLATFORM_BODY_RECEIVING_PACKAGE_INFORMATION"
+msgstr "Paket məlumatı almaq"
+
+msgid "IDS_TPLATFORM_BODY_RECEIVING_PUSH_NOTIFICATIONS"
+msgstr "Push bildirişlərini almaq"
+
+msgid "IDS_TPLATFORM_BODY_RECORDING_AUDIO"
+msgstr "Audio yazmaq"
+
+msgid "IDS_TPLATFORM_BODY_SELECTING_NETWORK_CONNECTION"
+msgstr "Şəbəkə bağlantısını seçmək"
+
+msgid "IDS_TPLATFORM_BODY_SETTING_ALARMS"
+msgstr "Siqnalları qurmaq"
+
+msgid "IDS_TPLATFORM_BODY_SYNCING_DEVICE_DATA"
+msgstr "Cihaz məlumatlarını sinxronlaşdırmaq"
+
+msgid "IDS_TPLATFORM_BODY_USING_BLUETOOTH_GAP"
+msgstr "Bluetooth GAP istifadə etmək"
+
+msgid "IDS_TPLATFORM_BODY_USING_BLUETOOTH_HDP"
+msgstr "Bluetooth HDP istifadə etmək"
+
+msgid "IDS_TPLATFORM_BODY_USING_BLUETOOTH_SPP"
+msgstr "Bluetooth SPP istifadə etmək"
+
+msgid "IDS_TPLATFORM_BODY_USING_CAMERA"
+msgstr "Kamera istifadə etmək"
+
+msgid "IDS_TPLATFORM_BODY_USING_NFC_COMMON_FEATURES"
+msgstr "NFC-nin ümumi xüsusiyyətlərindən istifadə etmək"
+
+msgid "IDS_TPLATFORM_BODY_USING_USER_LOCATION"
+msgstr "İstifadəçinin yerindən istifadə"
+
+msgid "IDS_TPLATFORM_BODY_WRITING_MESSAGES"
+msgstr "Mesaj yazmaq"
+
+msgid "IDS_TPLATFORM_BODY_WRITING_TO_FILE_SYSTEMS"
+msgstr "Fayl sistemlərinə yazmaq"
+
+msgid "IDS_TPLATFORM_OPT_ACCOUNTS_ABB"
+msgstr "Hesablar"
+
+msgid "IDS_TPLATFORM_OPT_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_TPLATFORM_OPT_CALENDAR_ABB"
+msgstr "Təqvim"
+
+msgid "IDS_TPLATFORM_OPT_CONTACTS_ABB"
+msgstr "Adlar"
+
+msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
+msgstr "İnternet"
+
+msgid "IDS_TPLATFORM_OPT_NFC"
+msgstr "NFC"
+
+msgid "IDS_TPLATFORM_OPT_WI_FI_DIRECT_ABB"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_TPLATFORM_BODY_RETRIEVING_APPLICATION_INFORMATION_M_NOUN"
+msgstr "Proqram haqqında məlumat əldə edilir"
+
+msgid "IDS_TPLATFORM_OPT_LOCATION_T_LBS"
+msgstr "Yeri"
+
+msgid "IDS_TPLATFORM_BODY_PERSONAL_INFORMATION_ABB"
+msgstr "Şəxsi məlumat"
+
+msgid "IDS_TPLATFORM_BODY_HARDWARE_CONTROLS_ABB"
+msgstr "Avadanlıq nəzarəti"
+
+msgid "IDS_TPLATFORM_BODY_NETWORK_CONNECTIONS_ABB"
+msgstr "Şəbəkə bağlantıları"
+
+msgid "IDS_TPLATFORM_BODY_PAID_SERVICES_ABB"
+msgstr "Ödənişli xidmətlər"
+
+msgid "IDS_TPLATFORM_BODY_SYSTEM_SETTINGS_ABB"
+msgstr "Sistem parametrləri"
+
+msgid "IDS_TPLATFORM_BODY_OTHER_PRIVILEGES_ABB"
+msgstr "Digər imtiyazlar"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_WEB_APPLICATION_SETTINGS_M_NOUN"
+msgstr "Veb-proqram parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Mesajlaşma"
+
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Zəng jurnalı"
+
+msgid "IDS_TPLATFORM_BODY_THIS_PRIVILEGE_IS_NOT_DEFINED"
+msgstr "Bu üstünlük müəyyən edilmədi."
+
+msgid "IDS_ST_OPT_SETTINGS"
+msgstr "Parametrlər"
+
+msgid "IDS_ST_BODY_GENERAL"
+msgstr "Ümumi"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Gizlilik"
+
+msgid "IDS_ST_TPOP_P1SS_DISABLED_IN_P2SS_ABB"
+msgstr "%1$s %2$s-də qeyri-aktiv edilmişdir"
+
+msgid "IDS_TPLATFORM_HEADER_READING_HEALTH_INFORMATION"
+msgstr "Sağlamlıq məlumatının oxunması"
+
+msgid "IDS_ST_OPT_SEND_SMS_ABB"
+msgstr "SMS göndər"
+
+msgid "IDS_ST_OPT_READ_SMS_N_MMS_ABB"
+msgstr "SMS və MMS yan"
+
+msgid "IDS_TPLATFORM_HEADER_RETRIEVING_ALARMS"
+msgstr "Siqnalların çıxarılması"
+
+msgid "IDS_TPLATFORM_HEADER_SCANNING_FOR_AND_ERASING_VIRUSES"
+msgstr "Virus axtarmaq və silmək"
+
+msgid "IDS_TPLATFORM_BODY_USING_UNRESTRICTED_BLUETOOTH_SERVICES_M_NOUN"
+msgstr "Qeyri-məhdud Bluetooth xidmətlərindən istifadə"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_INTERNET_BOOKMARKS_M_NOUN"
+msgstr "İnternet əlfəcinlərinə çıxış"
+
+msgid "IDS_TPLATFORM_BODY_SHARING_DATA_BETWEEN_APPLICATIONS_M_NOUN"
+msgstr "Proqramlar arasında məlumat paylaşılması"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_DISPLAY_SETTINGS_M_NOUN"
+msgstr "Displey parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_EMAIL_ACCOUNTS_MAILBOXES_AND_EMAILS_M_NOUN"
+msgstr "E-poçt hesabları, poçt qutuları və e-poçtların idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_EMAIL_CONFIGURATIONS_M_NOUN"
+msgstr "E-poçt konfiqurasiyalarının idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_EXTERNAL_STORAGE_M_NOUN"
+msgstr "Xarici yaddaşa çıxış"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_APPLICATION_DATA_IN_EXTERNAL_STORAGE_M_NOUN"
+msgstr "Xarici yaddaşda proqram məlumatına çıxış"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_VIBRATION_FEEDBACK_M_NOUN"
+msgstr "Vibrasiya əks-əlaqəsinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_USING_SECURE_REPOSITORY_M_NOUN"
+msgstr "Təhlükəsizlik bazasından istifadə"
+
+msgid "IDS_TPLATFORM_BODY_LOCKING_UNLOCKING_SECURE_REPOSITORY_M_NOUN"
+msgstr "Təhlükəsizlik bazasının kilidlənməsi/kiliddən açılması"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_LEDS_M_NOUN"
+msgstr "LED-lərin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_LOCATION_SETTINGS_M_NOUN"
+msgstr "Məkan parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_ACCESSING_MEDIA_FOLDERS"
+msgstr "Media qovluqlara çıxış"
+
+msgid "IDS_TPLATFORM_BODY_READING_TEXT_AND_MULTIMEDIA_MESSAGES_AND_RELATED_INFORMATION_M_NOUN"
+msgstr "Mətn və multimedia mesajları və əlaqədar məlumatın oxunması"
+
+msgid "IDS_TPLATFORM_HEADER_READING_NETWORK_INFORMATION"
+msgstr "Şəbəkə məlumatı oxunur"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_NETWORK_PROFILES"
+msgstr "Şəbəkə profillərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_NETWORK_CONNECTIONS"
+msgstr "Şəbəkə bağlantılarını idarə etmək"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_NOTIFICATIONS"
+msgstr "Bildirişlərin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_INSTALLING_UNINSTALLING_APPLICATION_PACKAGES_AND_CLEARING_CACHES"
+msgstr "Proqram paketlərinin quraşdırılması/pozulması və keşlərin silinməsi"
+
+msgid "IDS_TPLATFORM_HEADER_RETRIEVING_DETAILED_PACKAGE_INFORMATION"
+msgstr "Ətraflı paket məlumatının çıxarılması"
+
+msgid "IDS_TPLATFORM_HEADER_RECORDING_VIDEO_AND_AUDIO"
+msgstr "Video və audio yazmaq"
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_DEVICE_SCREEN"
+msgstr "Cihaz ekranı çəkilir"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_SHORTCUTS"
+msgstr "Qısayolların idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_UNRESTRICTED_SYSTEM_SETTINGS"
+msgstr "Məhdudlaşmamış sistem parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_ALL_SYSTEM_SETTINGS"
+msgstr "Bütün sistem parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_TELEPHONY_SETTINGS"
+msgstr "Telefon parametrlərinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_ADJUSTING_VOLUME"
+msgstr "Səsin tənzimlənməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_INTERNET_HISTORY"
+msgstr "İnternet tarixçəsinin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_WI_FI_DIRECT_INFORMATION"
+msgstr "Wi-Fi Direct məlumatının idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_INFORMATION_ABOUT_YOUR_SAVED_ALARMS"
+msgstr "Bu proqram saxlanmış siqnallarınız barədə məlumatı oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_ERASE_DATA_IN_ANY_OTHER_APPLICATION_MSG"
+msgstr "Bu proqram təhlükəli məzmunu müəyyən etmək və silmək üçün başqa proqramlardakı məlumatı oxuya və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_OPEN_OTHER_APPLICATIONS"
+msgstr "Bu proqram başqa proqramları da aça bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_PERFORM_UNRESTRICTED_ACTIONS_USING_BLUETOOTH_SUCH_AS_SCANNING_FOR_AND_CONNECTING_TO_OTHER_DEVICES"
+msgstr "Bu proqram Bluetooth vasitəsilə başqa cihazların axtarılması və ya onlara qoşulma kimi qeyri-məhdud əməliyyatları həyata keçirə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_CREATE_EDIT_AND_DELETE_INTERNET_BOOKMARKS"
+msgstr "Bu proqram internet əlfəcinlərini çıxara, yarada, redaktə edə və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_EVENTS_AND_TASKS"
+msgstr "Bu proqram tədbirləri və tapşırıqları oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_UPDATE_AND_DELETE_EVENTS_AND_TASKS"
+msgstr "Bu proqram tədbir və tapşırıqlar yarada, yeniləyə və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_UPDATE_AND_DELETE_CALL_LOG_ITEMS"
+msgstr "Bu proqram zəng jurnalı elementlərini yarada, yeniləyə və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TAKE_AND_PREVIEW_PICTURES"
+msgstr "Bu proqram şəkillər çəkə və onlara ilkin baxış keçirə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_UPDATE_AND_DELETE_YOUR_PROFILE_CONTACTS_AND_ANY_CONTACT_HISTORY_MSG"
+msgstr "Bu proqram sizin profilinizi, kontaklarınızı və bu proqramla bağlı bütün kontakt tarixçəsini yarada, yeniləyə və silə bilər. Kontakt tarixçəsinə sosial şəbəkə fəaliyyəti də aid ola bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_YOUR_PROFILE_CONTACTS_AND_CONTACT_HISTORY_CONTACT_HISTORY_CAN_INCLUDE_SOCIAL_NETWORK_ACTIVITY"
+msgstr "Bu proqram sizin profilinizi, kontaktlarınızı və kontakt tarixçənizi oxuya bilər. Kontakt tarixçəsinə sosial şəbəkə fəaliyyəti də daxildir."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_MEDIA_INFORMATION_THIS_INFORMATION_CAN_BE_USED_BY_OTHER_APPLICATIONS"
+msgstr "Bu proqram media məlumatını dəyişə bilər. Bu məlumat başqa proqramlar tərəfindən istifadə edilə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHARE_DATA_WITH_OTHER_APPLICATIONS"
+msgstr "Bu proqram məlumatı başqa proqramlarla paylaşa bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_DISPLAY_SETTINGS_SUCH_AS_THE_BRIGHTNESS_THIS_MAY_INCREASE_BATTERY_CONSUMPTION"
+msgstr "Bu proqram parlaqlıq kimi displey parametrlərini idarə edə bilər. Bu, batareya sərfini artıra bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_EMAIL_ACCOUNTS_INCLUDING_YOUR_FOLDERS_AND_EMAILS"
+msgstr "Bu priqram sizin e-poçt hesablarınızı, o cümlədən qolvuq və e-poçtlarınızı idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_THE_SETTINGS_OF_EMAIL_APPLICATIONS"
+msgstr "Bu proqram e-poçt proqramlarının parametrlərini idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_FILES_THAT_ARE_SAVED_TO_EXTERNAL_STORAGE_SUCH_AS_SD_CARDS"
+msgstr "Bu proqram SD kartlar kimi xarici yaddaşda saxlanan faylları oxuya və yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_ITS_OWN_FILES_IN_EXTERNAL_STORAGE_SUCH_AS_SD_CARDS"
+msgstr "Bu proqram SD kartlar kimi xarici yaddaşda öz fayllarını oxuya və yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CONTROL_VIBRATION_FEEDBACK"
+msgstr "Bu proqram vibrasiya əks-əlaqəsini idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ACCESS_THE_INTERNET_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Bu proqram internetə çıxa bilər. Ödəniş planınızdan asılı olaraq bu, əlavə xərclərə səbəb ola bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SAVE_KEYS_CERTIFICATES_AND_DATA_TO_AND_RETRIEVE_AND_DELETE_THEM_FROM_PASSWORD_PROTECTED_STORAGE"
+msgstr "Bu proqram açarları, sertifikatları və məlumatı saxlaya, onları parolla qorunan yaddaşdan çıxara və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_LOCK_AND_UNLOCK_PASSWORD_PROTECTED_STORAGE_AND_MANAGE_PASSWORD_CHANGES_FOR_IT"
+msgstr "Bu proqram parolla qorunan yaddaşı kilidləyə və kiliddən aça və onun üçün parol dəyişikliyini idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TURN_LEDS_ON_OR_OFF_SUCH_AS_THE_LED_ON_THE_FRONT_OF_THE_DEVICE_AND_THE_CAMERA_FLASH"
+msgstr "Bu proqram cihazın önündəki LED işıqları və kamera fləş işığı kimi LED-ləri yandıra və ya söndürə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CONTROL_YOUR_LOCATION_SERVICE_SETTINGS"
+msgstr "Bu proqram sizin məkan xidməti parametrlərinizi idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_FILES_IN_MEDIA_FOLDERS"
+msgstr "Bu proqram media qovluqları oxuya və yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_TEXT_AND_MULTIMEDIA_MESSAGES_AND_ANY_INFORMATION_RELATED_TO_THEM"
+msgstr "Bu proqram mətn və multimedia mesajlarını və onlarla bağlı bütün məlumatları oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_NETWORK_INFORMATION_SUCH_AS_THE_STATUS_OF_EACH_NETWORK_ITS_TYPE_AND_DETAILED_NETWORK_PROFILE_INFORMATION"
+msgstr "Bu proqram hər bir şəbəkənin statusu, növü və ətraflı şəbəkə profil məlumatı kimi şəbəkə məlumatını əldə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ADD_REMOVE_AND_EDIT_NETWORK_PROFILES"
+msgstr "Bu proqram şəbəkə profillərini əlavə edə, silə və redaktə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TURN_WI_FI_AND_ON_AND_OFF_AND_CONNECT_TO_AND_DISCONNECT_FROM_WI_FI_AND_MOBILE_NETWORKS"
+msgstr "Bu proqram Wi-Fi-ı yandıra və söndürə və Wi-Fi və mobil şəbəkələrə qoşula və ayrıla bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHOW_AND_HIDE_ITS_OWN_NOTIFICATIONS_AND_BADGES"
+msgstr "Bu proqram öz bildirişlərinizi və bəclərinizi göstərə və gizlədə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_INSTALL_AND_UNINSTALL_APPLICATION_PACKAGES_AND_CLEAR_APPLICATIONS_CACHES"
+msgstr "Bu proqram proqram paketlərini quraşdıra və poza və proqram keşlərini silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_DETAILED_APPLICATION_PACKAGE_INFORMATION"
+msgstr "Bu proqram ətraflı proqram paket məlumatını çıxara bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_NOTIFICATIONS_VIA_THE_INTERNET"
+msgstr "Bu proqram internet vasitəsilə bildiriş ala bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECORD_VIDEO_AND_AUDIO"
+msgstr "Bu proqram video və audio yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_SCREENSHOTS"
+msgstr "Bu proqram qısayollar çəkə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_AND_DELETE_SHORTCUTS"
+msgstr "Bu proqram qısayol yarada və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_UNRESTRICTED_SYSTEM_SETTINGS"
+msgstr "Bu proqram məhdudlaşmayan sistem parametrlərini oxuya və yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_ALL_SYSTEM_SETTINGS"
+msgstr "Bu proqram bütün sistem parametrlərini oxuya və yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_TELEPHONY_INFORMATION_SUCH_AS_THE_NETWORK_AND_SIM_CARD_USED_THE_IMEI_AND_THE_STATUSES_OF_CALLS"
+msgstr "Bu proqram istifadə edilən SIM kart və şəbəkə, IMEI və zənglərin statusu kimi telefon məlumatını çıxara bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_TELEPHONY_SETTINGS_SUCH_AS_THOSE_FOR_INCOMING_AND_OUTGOING_CALLS_FORWARDING_AND_HOLDING_CALLS_NETWORKS_AND_SIM_CARDS"
+msgstr "Bu proqram daxil olan və gedən, yönləndirilən və gözləyən zənglər, şəbəkələr və SIM kartlar kimi telefon parametrlərini idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ADJUST_THE_VOLUME_FOR_DIFFERENT_FEATURES_SUCH_AS_NOTIFICATION_ALERTS_RINGTONES_AND_MEDIA"
+msgstr "Bu proqram bildiriş siqnalları, zəng tonları və media kimi fərqli funksiyaların səsini tənzimləyə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_INTERNET_HISTORY"
+msgstr "Bu proqram internet tarixçənizi idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ENABLE_AND_DISABLE_WI_FI_DIRECT_MANAGE_WI_FI_DIRECT_CONNECTIONS_AND_CHANGE_WI_FI_DIRECT_SETTINGS"
+msgstr "Bu proqram Wi-Fi Direct-i aktiv və ya qeyri-aktiv edə, Wi-Fi Direct bağlantılarını idarə edə və Wi-Fi Direct parametrlərini dəyişə bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CREATE_EDIT_AND_DELETE_BOOKMARKS"
+msgstr "Bu proqram əlfəcinlər yarada, redaktə edə və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_HEALTH_INFORMATION_GATHERED_BY_THE_DEVICE_SENSORS_SUCH_AS_THE_PEDOMETER_AND_THE_HEART_RATE_MONITOR"
+msgstr "Bu proqram pedometr və ürək döyüntü monitoru kimi cihaz sensorlarının topladığı sağlamlıq məlumatını oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_MESSAGES_FROM_MESSAGE_BOXES_OR_RECEIVE_MESSAGES"
+msgstr "Bu proqram mesaj qutularından müsajları çıxara və ya ala bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_SECURE_SYSTEM_INFORMATION"
+msgstr "Bu proqram təhlükəsizlik sistem məlumatını oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_DATA_EXPORTED_BY_DATA_CONTROL_PROVIDERS"
+msgstr "Bu proqram məlumat nəzarətçi provayderləri ilə ixrac edilən məlumatl oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_SYSTEM_INFORMATION"
+msgstr "Bu proqram sistem məlumatını oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_APPEAR_ON_TOP_OF_OTHER_WINDOWS_AND_SCREENS_MSG"
+msgstr "Bu proqram üstün tutulan pəncərələrin sırasından asılı olaraq, kilid ekranı daxil olmaqla başqa pəncərə və ekranların yuxarısında peyda ola bilər. Bu, bu proqram üçün pəncərə bağlı olduğu müddətdə sizin başqa proqram və ya ekranlardan istifadənizin qarşısını ala bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_BLUETOOTH_SYSTEM_SETTINGS_RELATED_TO_PRIVACY_AND_SECURITY_SUCH_AS_THE_VISIBILITY_MODE"
+msgstr "Bu proqram görünüş rejimi kimi məxfilik və təhlükəsizliklə bağlı Bluetooth sistem parametrlərini dəyişə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_ITS_WEB_APPLICATION_SETTINGS_INCLUDING_DELETING_ITS_COOKIES"
+msgstr "Bu proqram kuki faylların silinməsi daxil olmaqla veb proqram parametrlərini dəyişə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CLOSE_OTHER_APPLICATIONS"
+msgstr "Bu proqram başqa proqramları bağlaya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_EDIT_AND_DELETE_ACCOUNTS"
+msgstr "Bu proqram hesablar yarada, redaktə edə və silə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ENABLE_AND_DISABLE_TETHERING_SERVICES"
+msgstr "Bu proqram bağlantı xidmətlərini aktiv və ya qeyri-aktiv edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MAKE_PHONE_CALLS_TO_NUMBERS_WHEN_THEY_ARE_TAPPED_WITHOUT_FURTHER_CONFIRMATION"
+msgstr "Bu proqram gələcəkdə təsdiq olmadan vurulduqda nömrələrə telefon zəngləri edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_AUDIO_RECORDINGS"
+msgstr "Bu proqram audio yazıları idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_INSTALLED_INPUT_METHODS"
+msgstr "Bu proqram quraşdırılmış daxiletmə metodlarını idarə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_OPEN_OTHER_APPLICATIONS_USING_THE_APPLICATION_ID_OR_APPLICATION_CONTROL"
+msgstr "Bu proqram proqram ID-si və ya proqram nəzarətindən istifadə edərək başqa proqramları aça bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACCOUNTS"
+msgstr "Bu proqram hesabları oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_NFC_TAG_INFORMATION_AND_SEND_NFC_MESSAGES_TO_OTHER_DEVICES"
+msgstr "Bu proqram NFC teq məlumatını oxuya və yaza bilər və başqa cihazlara NFC mesajları göndərə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_FILE_SYSTEMS"
+msgstr "Bu proqram fayl sistemlərini oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_MEDIA_CONTENT_INFORMATION"
+msgstr "Bu media məzmun məlumatlarını oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_INFORMATION_RELATED_TO_OTHER_APPLICATIONS"
+msgstr "Bu proqram başqa proqramlarla bağlı məlumatı çıxara bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_SPECIFIED_APPLICATION_CERTIFICATES"
+msgstr "Bu proqram xüsusi proqram sertifikatlarını çıxara bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SAVE_ITS_CONTENT_TO_YOUR_DEVICE_STORAGE_OR_EXTERNAL_STORAGE_LOCATIONS_SUCH_AS_SD_CARDS_WITH_NO_LIMIT_ON_THE_CONTENTS_SIZE"
+msgstr "Bu proqram məzmununu məzmunun ölçüsünü məhdudlaşdırmadan sizin cihazın yaddaşında və ya SD kart kimi xarici yaddaşlarda saxlaya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SET_ALARMS_AND_WAKE_THE_DEVICE_UP_AT_SCHEDULED_TIMES"
+msgstr "Bu proqram siqnallar qura və planlaşdırılan zamanda cihazı oyada bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SYNCHRONISE_DEVICE_DATA_SUCH_AS_CONTACTS_AND_CALENDAR_EVENTS_USING_THE_OMA_DS_12_PROTOCOL"
+msgstr "Bu proqram kontaktlar və təqvim tədbirləri kimi cihaz məlumatını OMA DS 1.2 protokolu vasitəsilə sinxronlaşdıra bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_FULL_SCREEN_VIEW"
+msgstr "Bu proqram tam ekran görünüşündən istifadə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_THE_BLUETOOTH_GENERIC_ACCESS_PROFILE_HGAP_TO_FOR_EXAMPLE_SCAN_FOR_AND_PAIR_WITH_DEVICES"
+msgstr "Bu proqram Bluetooth Hərəkətli Çıxış Profilindən (GAP) istifadə edə, məsələn, cihazları axtara və cütləşdirə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_THE_BLUETOOTH_HEALTH_DEVICE_PROFILE_HHDP_TO_FOR_EXAMPLE_SEND_HEALTH_INFORMATION"
+msgstr "Bu proqram sağlamlı məlumatının göndərilməsi və s. üçün Bluetooth Sağlamlıq Cihaz Profilindən (HDP) istifadə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_THE_BLUETOOTH_SERIAL_PORT_PROFILE_HSPP_TO_FOR_EXAMPLE_SEND_SERIAL_DATA"
+msgstr "Bu proqram Bluetooth Seriya Port Profilindən (SPP) istifadə edə, məsələn, seriya məlumatını göndərə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_YOUR_LOCATION_DATA"
+msgstr "Bu proqram məkan məlumatından istifadə edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TEXT_MESSAGES_MULTIMEDIA_MESSAGES_AND_EMAILS"
+msgstr "Bu proqram mətn, multimedia mesajları və e-poçtlar yaza bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TO_FILE_SYSTEMS"
+msgstr "Bu proqram fayl sistemlərinə yaza bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_ACCESS_SECURE_SMART_CARD_CHIPS_SUCH_AS_UICC_SIM_EMBEDDED_SECURE_ELEMENTS_AND_SECURE_SD_CARDS"
+msgstr "Bu proqram UICC/SIM kimi təhlükəsiz ağıllı kart çipləri, tətbiq edilmiş təhlükəsizlik elementləri və təhlükəsiz SD kartlara çıxa bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CHANGE_AND_READ_USER_SETTINGS"
+msgstr "Bu proqram istifadəçi parametrlərini dəyişə və oxuya bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CHANGE_NFC_SETTINGS_SUCH_AS_TURNING_NFC_ON_OR_OFF"
+msgstr "Bu proqram NFC-nin yandırılması və ya söndürülməsi kimi NFC parametrlərini dəyişə bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CONTROL_POWER_RELATED_SETTINGS_SUCH_AS_DIMMING_THE_SCREEN"
+msgstr "Bu proqram ekranın sıxılması kimi enerji ilə əlaqədar parametrləri idarə edə bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_INSTALL_OR_UNINSTALL_APPLICATION_PACKAGES"
+msgstr "Bu proqram paketlər quraşdıra və ya silə bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_PUSH_NFC_MESSAGES_TO_OTHER_DEVICES"
+msgstr "Bu proqram NFC mesajlarını başqa cihazlara itələyə bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_READ_AND_WRITE_NFC_TAG_INFORMATION"
+msgstr "Bu proqram NFC teqləmə məlumatını oxuya və yaza bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_READ_BOOKMARKS"
+msgstr "Bu proqram əlfəcinləri oxuya bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_READ_CALL_LOG_ITEMS"
+msgstr "Bu proqram zəng jurnalı elementlərini oxuya bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_RECEIVE_PACKAGE_INFORMATION"
+msgstr "Bu proqram paket məlumatını ala bilər."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_USE_NFC_COMMON_FEATURES"
+msgstr "Bu proqram NFC ümumi funksiyalarından istifadə edə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_USING_BASIC_NFC_SERVICES"
+msgstr "Əsas NFC xidmətlərindən istifadə"
+
+msgid "IDS_TPLATFORM_HEADER_USING_NFC_CARD_EMULATION_MODE"
+msgstr "NFC kartın təkrarlama rejimindən istifadə"
+
+msgid "IDS_TPLATFORM_HEADER_ACCESSING_TETHERING_SERVICES"
+msgstr "Bağlantı xidmətlərinə çıxış"
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_WINDOWS_ON_TOP_OF_OTHER_APPLICATIONS_AND_SCREENS"
+msgstr "Pəncərələrin başqa proqram və ekranların yuxarısında görünməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MAKING_PHONE_CALLS"
+msgstr "Telefon zənglərinin edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ACCESS_SMART_CARD_DETAILS_SUCH_AS_CREDIT_CARD_DETAILS_AND_ALLOW_USERS_TO_MAKE_PAYMENTS_VIA_NFC"
+msgstr "Bu proqram kredit kartı məlumatları kimi ağıllı kart təfərrüatlarına çıxa bilər və istifadəçilərə NFC vasitəsilə ödəniş etmək imkanı verə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_SEND_DELETE_AND_MOVE_TEXT_AND_MULTIMEDIA_MESSAGES_AND_CHANGE_THE_SETTINGS_AND_STATUSES_OF_MESSAGES_MSG"
+msgstr "Bu proqram mətn və mutimedia mesajlarını yaza, göndərə, silə və köçürə və mesajların oxunmuş və ya oxunmamış kimi statuslarını və parametrlərini dəyişə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS"
+msgstr "Bu proqram cihazı elə məhdudlaşdıra bilər ki, bəzi xüsusi domenlərə yalnız mobil şəbəkələr vasitəsilə çıxmaq mümkün ola bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_MEDIA_DATA"
+msgstr "Media məlumat çəkilir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_VIDEO_AND_AUDIO_DATA"
+msgstr "Bu proqram video və audio məlumatı çəkə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_DISPLAY_EDIT_AND_DELETE_NOTIFICATIONS"
+msgstr "Bu proqram bildirişləri göstərə, redaktə edə və silə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_OPENING_AND_RESUMING_APPLICATIONS"
+msgstr "Proqramların açılması və bərpa edilməsi"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_ALARMS"
+msgstr "Siqnallar idarə edilir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_ALARMS_BY_RETRIEVING_SAVED_ALARMS_AND_WAKING_THE_DEVICE_UP_AT_SCHEDULED_TIMES"
+msgstr "Bu proqram saxlanmış siqnalların bərpa edilməsi və cihazın planlaşdırılan vaxtda oyadılması ilə siqnalları idarə edə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CHANGING_BLUETOOTH_SETTINGS"
+msgstr "Bluetooth parametrlərini dəyişmək"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_BLUETOOTH_SETTINGS_SUCH_AS_TURNING_BLUETOOTH_ON_OR_OFF_SETTING_THE_DEVICE_NAME_AND_ENABLING_OR_DISABLING_AV_REMOTE_CONTROL"
+msgstr "Bu proqram Bluetooth-un yandırılması və ya söndürülməsi, cihaz adının qurulması və AV uzaqdan idarəetmənin aktiv və ya qeyri-aktiv edilməsi kimi Bluetooth parametrlərini dəyişə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_INFORMATION_ABOUT_NOTIFICATIONS"
+msgstr "Bu proqram bildirişlər barədə məlumatı oxuya bilər."
+
+msgid "IDS_TPLATFORM_HEADER_USING_FULL_SCREEN_VIEW"
+msgstr "Tam ekran görünüşündən istifadə"
+
+msgid "IDS_TPLATFORM_HEADER_RETRIEVING_NOTIFICATION_INFORMATION"
+msgstr "Bildiriş məlumatı çıxarılır"
+
+msgid "IDS_TPLATFORM_BODY_SENDING_TEXT_AND_MULTIMEDIA_MESSAGES_AND_UPDATING_THEIR_STATUSES_M_NOUN"
+msgstr "Mətn və multimedia mesajlarının göndərilməsi və onların statuslarının yenilənməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_HTTP_DOWNLOADS_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Bu proqram HTTP yükləmələrini idarə edə bilər. Ödəniş planınızdan asılı olaraq bu, əlavə xərclərə səbəb ola bilər."
+
+msgid "IDS_TPLATFORM_HEADER_READING_APPLICATION_USAGE_STATISTICS"
+msgstr "Proqramdan istifadə statistikası oxunur"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_THE_STATISTICS_OF_APPLICATION_USAGE_SUCH_AS_WHICH_APPLICATIONS_HAVE_BEEN_USED_FREQUENTLY_OR_RECENTLY"
+msgstr "Bu proqram hansı proqramların ən tez-tez və ya ən son istifadə edildiyi vaxtlar kimi statistikanı oxuya bilər."
+
+msgid "IDS_TPLATFORM_HEADER_READING_MEDIA_PLAYBACK_STATISTICS"
+msgstr "Media səslənmə statistikası oxunur"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_THE_STATISTICS_CONCERNING_THE_MUSIC_AND_VIDEOS_PLAYED_ON_THE_DEVICE_SUCH_AS_THE_PEAK_TIMES_FOR_PLAYING_MUSIC_OR_VIDEOS"
+msgstr "Bu proqram cihazda səslənən musiqi və videoların statistikasını, məsələn, musiqi və videoların ən çox səsləndirildiyi vaxtlar kimi məlumatı oxuya bilər."
+
+msgid "IDS_TPLATFORM_HEADER_LOGGING_MEDIA_CONTROL_EVENTS"
+msgstr "Media nəzarət tədbirləri qeydə alınır"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_LOG_MEDIA_CONTROL_EVENTS_SUCH_AS_START_AND_STOP_TIMES_FOR_MUSIC_AND_VIDEOS"
+msgstr "Bu proqram başlama və bitmə vaxtları, musiqi və videolar kimi media nəzarət tədbirlərini qeydə ala bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_PROVIDE_USERS_WITH_A_WAY_TO_ENTER_CHARACTERS_AND_SYMBOLS_INTO_AN_ASSOCIATED_TEXT_FIELD"
+msgstr "Bu proqram istifadəçiləri simvol və rəqəmləri əlaqədar mətn xanasına daxil etmək yolu ilə təmin edə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_PROVIDING_INPUT_METHODS"
+msgstr "Daxiletmə metodlarının təmin edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TAKE_PICTURES_AND_TURN_THE_CAMERA_FLASH_ON_AND_OFF_WHILE_USING_CAMERA"
+msgstr "Kameradan istifadə edən zaman bu proqram şəkil çəkə və kamera işığını yandıra və söndürə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CLOSING_BACKGROUND_APPLICATIONS"
+msgstr "Fonda açıq olan proqramların bağlanması"
+
+msgid "IDS_TPLATFORM_HEADER_GENERATING_TOUCH_AND_KEY_EVENTS"
+msgstr "Açar və söz tədbirlərinin yaradılmadı"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SIMULATE_KEYS_BEING_PRESSED_AND_TOUCH_INTERACTIONS_WITH_THE_SCREEN"
+msgstr "Bu proqram açarların çıxılması və ekranla sensor əlaqəsini təkrarlaya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_REQUEST_TO_CLOSE_APPLICATIONS_RUNNING_IN_THE_BACKGROUND"
+msgstr "Bu proqram fonda açılmış proqramların bağlanmasını tələb edə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MAKE_PHONE_CALLS_TO_NUMBERS_WHEN_THEY_ARE_TAPPED_WITHOUT_FURTHER_CONFIRMATION_MSG"
+msgstr "Bu proqram gələcəkdə təsdiq olmadan vurulduqda nömrələrə telefon zəngləri edə bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_EMAIL_ACCOUNTS_INCLUDING_YOUR_FOLDERS_AND_EMAILS_POP3_AND_IMAP_DOWNLOADS_AND_SMTP_UPLOADS_MSG"
+msgstr "Bu proqram sizin e-poçt hesablarınız, o cümlədən qovluq və e-poçtlar, POP3 və IMAP yükləmələri və SMTP yükləmələrini idarə edə bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_NOTIFICATIONS_VIA_THE_INTERNET_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Bu proqram internet vasitəsilə bildiriş ala bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SAVE_KEYS_CERTIFICATES_AND_DATA_TO_AND_RETRIEVE_MSG"
+msgstr "Bu proqram açarları, sertifikatları və məlumatı saxlaya, onları parolla qorunan yaddaşdan çıxara və silə bilər. Mobil cihaza qoşulu olan zaman sertifikatların statuslarının yoxlanması ödəniş planınızdan asılı olaraq əlavə xərclərə səbəb ola bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_MEDIA_PLAYER"
+msgstr "Media pleyerin idarə edilməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_INFORMATION_ABOUT_CURRENTLY_PLAYING_MEDIA_FROM_APPLICATIONS_THAT_ARE_ALLOWED_TO_SEND_IT_MSG"
+msgstr "Bu proqram hazırda səsləndirilən media barədə məlumatı onu göndərmək icazəsi olan proqramlardan ala və bu proqramları uzaqdan idarə edə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_ACCEPTING_REMOTE_CONTROLS"
+msgstr "Uzaqdan idarətetmə qəbul edilir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SEND_INFORMATION_ABOUT_CURRENTLY_PLAYING_MEDIA_TO_APPLICATIONS_THAT_ARE_ALLOWED_TO_RECEIVE_IT_MSG"
+msgstr "Bu proqram hazırda səsləndirilən media barədə məlumatı onu göndərmək icazəsi olan proqramlara göndərə və bu proqramları tərəfindən uzaqdan idarə edilə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_SEND_DELETE_AND_MOVE_TEXT_AND_MULTIMEDIA_MESSAGES_DOWNLOAD_MULTIMEDIA_MESSAGES_MSG"
+msgstr "Bu proqram mətn və mutimedia mesajlarını yaza, göndərə, silə və köçürə, multimedia mesajları yükləyə və mesajların oxunmuş və ya oxunmamış kimi statuslarını və parametrlərini dəyişə bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TURN_WI_FI_ON_AND_OFF_AND_CONNECT_TO_AND_DISCONNECT_FROM_WI_FI_AND_MOBILE_NETWORKS_MSG"
+msgstr "Bu proqram Wi-Fi-ı yandıra və söndürə və Wi-Fi və mobil şəbəkələrə qoşula və ayrıla bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_INSTALLING_UNINSTALLING_APPLICATION_PACKAGES"
+msgstr "Proqram paketlərinin quraşdırlması/silinməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_INSTALL_AND_UNINSTALL_APPLICATION_PACKAGES"
+msgstr "Bu proqram paketlər quraşdıra və ya silə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CLEARING_OTHER_APPLICATIONS_CACHES"
+msgstr "Başqa proqramların keşlərinin silinməsi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CLEAR_OTHER_APPLICATIONS_CACHES"
+msgstr "Bu proqram başqa proqramların keşlərini silə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_RESTARTING_DEVICE"
+msgstr "Cihaz sönüb yandırılır"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTART_THE_DEVICE"
+msgstr "Bu proqram cihazı söndürüb yandıra bilər."
+
+msgid "IDS_TPLATFORM_HEADER_MONITORING_SYSTEM_RESOURCES"
+msgstr "Monitorinq sisteminin ehtiyatları"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_SYSTEM_INFORMATION_INCLUDING_INFORMATION_FROM_THE_CPU_AND_RAM"
+msgstr "Bu proqram CPU və RAM məlumatı daxil olmaqla sistem məlumatını oxuya bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ENABLE_AND_DISABLE_TETHERING_SERVICES_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Bu proqram bağlantı xidmətlərini aktiv və ya qeyri-aktiv edə bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_SHOWING_WIDGETS"
+msgstr "Vidjetlər göstərilir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHOW_WIDGETS_AND_INFORMATION_FROM_THEIR_ASSOCIATED_APPLICATIONS_ON_THE_HOME_SCREEN"
+msgstr "Bu proqram vidjetləri və onların əlaqədar proqramlarındakı məlumatları əsas ekranda göstərə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_USING_MAP_SERVICES"
+msgstr "Xəritə xidmətlərindən istifadə"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_MAP_SERVICES_SUCH_AS_GEOCODER_PLACES_AND_ROUTE_HDIRECTION"
+msgstr "Bu proqram Geokodlaşdırıcı, Yerlər və Marşrut (İstiqamət) kimi xəritə xidmətlərindən istifadə edə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_SHOWING_TOOLBAR"
+msgstr "Alət paneli görünür"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHOW_A_SMALL_TOOLBAR_ON_THE_NOTIFICATION_PANEL_OR_LOCK_SCREEN_WHILE_IT_IS_OPEN"
+msgstr "Bu proqram kiçik alət panelini bildiriş panelində və ya açıq olan kilid ekranında göstərə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SYNC_DEVICE_DATA_SUCH_AS_CONTACTS_AND_CALENDAR_EVENTS_USING_THE_OMA_DS_12_PROTOCOL_MSG"
+msgstr "Bu proqram kontaktlar və təqvim tədbirləri kimi cihaz məlumatını OMA DS 1.2 protokolu vasitəsilə sinxronlaşdıra bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_EMAILS_TEXT_MESSAGES_AND_MULTIMEDIA_MESSAGES_FROM_THE_SERVER_OR_RECEIVE_THEM_DIRECTLY_MSG"
+msgstr "Bu proqram e-poçtlar, mətn mesajları və multimeedia mesajlarını serverdən bərpa edə və ya birbaşa ala bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TEXT_MESSAGES_MULTIMEDIA_MESSAGES_AND_EMAILS_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Bu proqram mətn, multimedia mesajları və e-poçtlar yaza bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
+msgstr "Bu proqram cihazı elə məhdudlaşdıra bilər ki, bəzi xüsusi domenlərə yalnız mobil şəbəkələr vasitəsilə çıxmaq mümkün ola bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
+

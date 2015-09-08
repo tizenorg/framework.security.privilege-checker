@@ -1,0 +1,8 @@
+<manifest>
+        <define>
+                <domain name="privilege-checker" />
+        </define>
+        <request>
+                <domain name="_" />
+        </request>
+</manifest>

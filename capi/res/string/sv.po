@@ -1,0 +1,765 @@
+msgid "IDS_TPLATFORM_BODY_ACCESSING_EXPORTED_DATA"
+msgstr "Åtkomst till exporterade data"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_INTERNET"
+msgstr "Ansluta till internet"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_MESSAGES"
+msgstr "Få åtkomst till meddelanden"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_SECURE_ELEMENTS"
+msgstr "Ansluta till säkra element"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_TELEPHONY_INFORMATION"
+msgstr "Få åtkomst till telefoninformation"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_UNLIMITED_STORAGE"
+msgstr "Ansluta till obegränsad lagring"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_USER_SETTINGS"
+msgstr "Ansluta till användarinställningar"
+
+msgid "IDS_TPLATFORM_BODY_CLOSING_APPLICATIONS"
+msgstr "Stänga program"
+
+msgid "IDS_TPLATFORM_BODY_DOWNLOADING_VIA_HTTP"
+msgstr "Hämta via HTTP"
+
+msgid "IDS_TPLATFORM_BODY_GETTING_APPLICATION_CERTIFICATES"
+msgstr "Hämta programcertifikat"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_ACCOUNTS"
+msgstr "Hantera konton"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_BLUETOOTH_SYSTEM_SETTINGS"
+msgstr "Hantera systeminställningar för Bluetooth"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_BOOKMARKS"
+msgstr "Hantera bokmärken"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CALENDAR"
+msgstr "Hantera kalender"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CALL_LOGS"
+msgstr "Hantera samtalsloggar"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CONTACTS"
+msgstr "Hantera kontakter"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_CONTENT"
+msgstr "Hantera innehåll"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_INPUT_METHODS"
+msgstr "Hantera inmatningsmetoder"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_NFC_GENERAL_SETTINGS"
+msgstr "Hantera allmänna inställningar för NFC"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_PACKAGES"
+msgstr "Hantera paket"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_POWER"
+msgstr "Hantera ström"
+
+msgid "IDS_TPLATFORM_BODY_OPENING_APPLICATIONS"
+msgstr "Öppna program"
+
+msgid "IDS_TPLATFORM_BODY_PROVIDING_NOTIFICATIONS"
+msgstr "Tillhandahålla meddelanden"
+
+msgid "IDS_TPLATFORM_BODY_PUSHING_NFC_MESSAGES"
+msgstr "Pusha NFC-meddelanden"
+
+msgid "IDS_TPLATFORM_BODY_READING_ACCOUNTS"
+msgstr "Läsa konton"
+
+msgid "IDS_TPLATFORM_BODY_READING_BOOKMARKS"
+msgstr "Läsa bokmärken"
+
+msgid "IDS_TPLATFORM_BODY_READING_CALENDAR"
+msgstr "Läsa kalender"
+
+msgid "IDS_TPLATFORM_BODY_READING_CALL_LOGS"
+msgstr "Läsa samtalsloggar"
+
+msgid "IDS_TPLATFORM_BODY_READING_CONTACTS"
+msgstr "Läsa kontakter"
+
+msgid "IDS_TPLATFORM_BODY_READING_CONTENT"
+msgstr "Läsa innehåll"
+
+msgid "IDS_TPLATFORM_BODY_READING_FILE_SYSTEMS"
+msgstr "Läsa filsystem"
+
+msgid "IDS_TPLATFORM_BODY_READING_SECURE_SYSTEM_INFORMATION"
+msgstr "Läsa säker systeminformation"
+
+msgid "IDS_TPLATFORM_BODY_READING_SYSTEM_INFORMATION"
+msgstr "Läsa systeminformation"
+
+msgid "IDS_TPLATFORM_BODY_READING_WRITING_TO_NFC_TAGS"
+msgstr "Läsa/skriva till NFC-taggar"
+
+msgid "IDS_TPLATFORM_BODY_RECEIVING_PACKAGE_INFORMATION"
+msgstr "Ta emot paketinformation"
+
+msgid "IDS_TPLATFORM_BODY_RECEIVING_PUSH_NOTIFICATIONS"
+msgstr "Ta emot push-meddelanden"
+
+msgid "IDS_TPLATFORM_BODY_RECORDING_AUDIO"
+msgstr "Spela in ljud"
+
+msgid "IDS_TPLATFORM_BODY_SELECTING_NETWORK_CONNECTION"
+msgstr "Välja nätverksanslutning"
+
+msgid "IDS_TPLATFORM_BODY_SETTING_ALARMS"
+msgstr "Ställa in alarm"
+
+msgid "IDS_TPLATFORM_BODY_SYNCING_DEVICE_DATA"
+msgstr "Synkronisera enhetsdata"
+
+msgid "IDS_TPLATFORM_BODY_USING_BLUETOOTH_GAP"
+msgstr "Använda Bluetooth GAP"
+
+msgid "IDS_TPLATFORM_BODY_USING_BLUETOOTH_HDP"
+msgstr "Använda Bluetooth HDP"
+
+msgid "IDS_TPLATFORM_BODY_USING_BLUETOOTH_SPP"
+msgstr "Använda Bluetooth SPP"
+
+msgid "IDS_TPLATFORM_BODY_USING_CAMERA"
+msgstr "Använd kameran"
+
+msgid "IDS_TPLATFORM_BODY_USING_NFC_COMMON_FEATURES"
+msgstr "Använda gemensamma funktioner för NFC"
+
+msgid "IDS_TPLATFORM_BODY_USING_USER_LOCATION"
+msgstr "Använda användarplats"
+
+msgid "IDS_TPLATFORM_BODY_WRITING_MESSAGES"
+msgstr "Skriva meddelanden"
+
+msgid "IDS_TPLATFORM_BODY_WRITING_TO_FILE_SYSTEMS"
+msgstr "Skriva till filsystem"
+
+msgid "IDS_TPLATFORM_OPT_ACCOUNTS_ABB"
+msgstr "Konton"
+
+msgid "IDS_TPLATFORM_OPT_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_TPLATFORM_OPT_CALENDAR_ABB"
+msgstr "Kalender"
+
+msgid "IDS_TPLATFORM_OPT_CONTACTS_ABB"
+msgstr "Kontakter"
+
+msgid "IDS_TPLATFORM_OPT_INTERNET_ABB"
+msgstr "Internet"
+
+msgid "IDS_TPLATFORM_OPT_NFC"
+msgstr "NFC"
+
+msgid "IDS_TPLATFORM_OPT_WI_FI_DIRECT_ABB"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_TPLATFORM_BODY_RETRIEVING_APPLICATION_INFORMATION_M_NOUN"
+msgstr "Hämtar programinformation"
+
+msgid "IDS_TPLATFORM_OPT_LOCATION_T_LBS"
+msgstr "Plats"
+
+msgid "IDS_TPLATFORM_BODY_PERSONAL_INFORMATION_ABB"
+msgstr "Personlig information"
+
+msgid "IDS_TPLATFORM_BODY_HARDWARE_CONTROLS_ABB"
+msgstr "Maskinvarukontroller"
+
+msgid "IDS_TPLATFORM_BODY_NETWORK_CONNECTIONS_ABB"
+msgstr "Nätverksanslutningar"
+
+msgid "IDS_TPLATFORM_BODY_PAID_SERVICES_ABB"
+msgstr "Betalda tjänster"
+
+msgid "IDS_TPLATFORM_BODY_SYSTEM_SETTINGS_ABB"
+msgstr "Systeminställningar"
+
+msgid "IDS_TPLATFORM_BODY_OTHER_PRIVILEGES_ABB"
+msgstr "Andra privilegier"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_WEB_APPLICATION_SETTINGS_M_NOUN"
+msgstr "Hantera inställningar för webbprogram"
+
+msgid "IDS_TPLATFORM_BODY_MESSAGING"
+msgstr "Meddelandehantering"
+
+msgid "IDS_TPLATFORM_OPT_CALL_LOG_ABB"
+msgstr "Samt.logg"
+
+msgid "IDS_TPLATFORM_BODY_THIS_PRIVILEGE_IS_NOT_DEFINED"
+msgstr "Den här behörigheten är inte definierad."
+
+msgid "IDS_ST_OPT_SETTINGS"
+msgstr "Inställningar"
+
+msgid "IDS_ST_BODY_GENERAL"
+msgstr "Allmänt"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Privat"
+
+msgid "IDS_ST_TPOP_P1SS_DISABLED_IN_P2SS_ABB"
+msgstr "%1$s har inaktiverats i %2$s."
+
+msgid "IDS_TPLATFORM_HEADER_READING_HEALTH_INFORMATION"
+msgstr "Läsa hälsoinformation"
+
+msgid "IDS_ST_OPT_SEND_SMS_ABB"
+msgstr "Skicka SMS"
+
+msgid "IDS_ST_OPT_READ_SMS_N_MMS_ABB"
+msgstr "Lästa SMS & MMS"
+
+msgid "IDS_TPLATFORM_HEADER_RETRIEVING_ALARMS"
+msgstr "Hämta alarm"
+
+msgid "IDS_TPLATFORM_HEADER_SCANNING_FOR_AND_ERASING_VIRUSES"
+msgstr "Sökning efter och borttagning av virus"
+
+msgid "IDS_TPLATFORM_BODY_USING_UNRESTRICTED_BLUETOOTH_SERVICES_M_NOUN"
+msgstr "Använda obegränsade Bluetooth-tjänster"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_INTERNET_BOOKMARKS_M_NOUN"
+msgstr "Åtkomst till bokmärken på Internet"
+
+msgid "IDS_TPLATFORM_BODY_SHARING_DATA_BETWEEN_APPLICATIONS_M_NOUN"
+msgstr "Dela data mellan program"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_DISPLAY_SETTINGS_M_NOUN"
+msgstr "Hantera visningsinställningar"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_EMAIL_ACCOUNTS_MAILBOXES_AND_EMAILS_M_NOUN"
+msgstr "Hantera e-postkonton, brevlådor och e-postmeddelanden"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_EMAIL_CONFIGURATIONS_M_NOUN"
+msgstr "Hantera e-postkonfigurationer"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_EXTERNAL_STORAGE_M_NOUN"
+msgstr "Åtkomst till extern lagring"
+
+msgid "IDS_TPLATFORM_BODY_ACCESSING_APPLICATION_DATA_IN_EXTERNAL_STORAGE_M_NOUN"
+msgstr "Åtkomst till programdata i extern lagring"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_VIBRATION_FEEDBACK_M_NOUN"
+msgstr "Hantera vibrationsfeedback"
+
+msgid "IDS_TPLATFORM_BODY_USING_SECURE_REPOSITORY_M_NOUN"
+msgstr "Använda det säkra datalagret"
+
+msgid "IDS_TPLATFORM_BODY_LOCKING_UNLOCKING_SECURE_REPOSITORY_M_NOUN"
+msgstr "Låsa/låsa upp det säkra datalagret"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_LEDS_M_NOUN"
+msgstr "Hantera LED-lampor"
+
+msgid "IDS_TPLATFORM_BODY_MANAGING_LOCATION_SETTINGS_M_NOUN"
+msgstr "Hantera platsinställningar"
+
+msgid "IDS_TPLATFORM_HEADER_ACCESSING_MEDIA_FOLDERS"
+msgstr "Åtkomst till mediamappar"
+
+msgid "IDS_TPLATFORM_BODY_READING_TEXT_AND_MULTIMEDIA_MESSAGES_AND_RELATED_INFORMATION_M_NOUN"
+msgstr "Läs SMS och MMS med relaterad information"
+
+msgid "IDS_TPLATFORM_HEADER_READING_NETWORK_INFORMATION"
+msgstr "Läsa nätverksinformation"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_NETWORK_PROFILES"
+msgstr "Hantera nätverksprofiler"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_NETWORK_CONNECTIONS"
+msgstr "Hantera nätverksanslutningar"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_NOTIFICATIONS"
+msgstr "Hantera aviseringar"
+
+msgid "IDS_TPLATFORM_HEADER_INSTALLING_UNINSTALLING_APPLICATION_PACKAGES_AND_CLEARING_CACHES"
+msgstr "Installera/avinstallera programpaket och rensa cacheminnen"
+
+msgid "IDS_TPLATFORM_HEADER_RETRIEVING_DETAILED_PACKAGE_INFORMATION"
+msgstr "Hämtar detaljerad paketinformation"
+
+msgid "IDS_TPLATFORM_HEADER_RECORDING_VIDEO_AND_AUDIO"
+msgstr "Spela in video och ljud"
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_DEVICE_SCREEN"
+msgstr "Ta skärmdump av enheten"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_SHORTCUTS"
+msgstr "Hantera genvägar"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_UNRESTRICTED_SYSTEM_SETTINGS"
+msgstr "Hantera obegränsade systeminställningar"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_ALL_SYSTEM_SETTINGS"
+msgstr "Hantera alla systeminställningar"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_TELEPHONY_SETTINGS"
+msgstr "Hantera telefoninställningar"
+
+msgid "IDS_TPLATFORM_HEADER_ADJUSTING_VOLUME"
+msgstr "Justera volymen"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_INTERNET_HISTORY"
+msgstr "Hantera Internethistorik"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_WI_FI_DIRECT_INFORMATION"
+msgstr "Hantera Wi-Fi Direct-information"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_INFORMATION_ABOUT_YOUR_SAVED_ALARMS"
+msgstr "Det här programmet kan läsa information om dina sparade alarm."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_ERASE_DATA_IN_ANY_OTHER_APPLICATION_MSG"
+msgstr "Det här programmet kan läsa och radera data i alla andra program på enheten för att identifiera och ta bort skadligt innehåll."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_OPEN_OTHER_APPLICATIONS"
+msgstr "Det här programmet kan öppna andra program."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_PERFORM_UNRESTRICTED_ACTIONS_USING_BLUETOOTH_SUCH_AS_SCANNING_FOR_AND_CONNECTING_TO_OTHER_DEVICES"
+msgstr "Det här programmet kan utföra obegränsade åtgärder med Bluetooth, till exempel söka efter och ansluta till andra enheter."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_CREATE_EDIT_AND_DELETE_INTERNET_BOOKMARKS"
+msgstr "Det här programmet kan hämta, skapa, redigera och ta bort bokmärken på Internet."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_EVENTS_AND_TASKS"
+msgstr "Det här programmet kan läsa händelser och uppgifter."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_UPDATE_AND_DELETE_EVENTS_AND_TASKS"
+msgstr "Det här programmet kan skapa, uppdatera och ta bort händelser och uppgifter."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_UPDATE_AND_DELETE_CALL_LOG_ITEMS"
+msgstr "Det här programmet kan skapa, uppdatera och ta bort samtalsloggobjekt."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TAKE_AND_PREVIEW_PICTURES"
+msgstr "Det här programmet kan ta och förhandsgranska bilder."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_UPDATE_AND_DELETE_YOUR_PROFILE_CONTACTS_AND_ANY_CONTACT_HISTORY_MSG"
+msgstr "Det här programmet kan skapa, uppdatera och ta bort din profil, dina kontakter och all kontakthistorik som är relaterat till programmet. Kontakthistoriken kan omfatta aktivitet i sociala nätverk."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_YOUR_PROFILE_CONTACTS_AND_CONTACT_HISTORY_CONTACT_HISTORY_CAN_INCLUDE_SOCIAL_NETWORK_ACTIVITY"
+msgstr "Det här programmet kan läsa din profil, dina kontakter och all kontakthistorik. Kontakthistoriken kan omfatta aktivitet i sociala nätverk."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_MEDIA_INFORMATION_THIS_INFORMATION_CAN_BE_USED_BY_OTHER_APPLICATIONS"
+msgstr "Det här programmet kan ändra medieinformation. Den här informationen kan användas av andra program."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHARE_DATA_WITH_OTHER_APPLICATIONS"
+msgstr "Det här programmet kan dela data med andra program."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_DISPLAY_SETTINGS_SUCH_AS_THE_BRIGHTNESS_THIS_MAY_INCREASE_BATTERY_CONSUMPTION"
+msgstr "Det här programmet kan hantera visningsinställningar, som ljusstyrkan. Detta kan öka batteriförbrukningen."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_EMAIL_ACCOUNTS_INCLUDING_YOUR_FOLDERS_AND_EMAILS"
+msgstr "Det här programmet kan hantera e-postkonton, inklusive dina mappar och e-postmeddelanden."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_THE_SETTINGS_OF_EMAIL_APPLICATIONS"
+msgstr "Det här programmet kan hantera inställningar för e-postprogram."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_FILES_THAT_ARE_SAVED_TO_EXTERNAL_STORAGE_SUCH_AS_SD_CARDS"
+msgstr "Det här programmet kan läsa och skriva filer som sparas i den externa lagringen, t.ex. på dina SD-kort."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_ITS_OWN_FILES_IN_EXTERNAL_STORAGE_SUCH_AS_SD_CARDS"
+msgstr "Det här programmet kan läsa och skriva sina egna filer i den externa lagringen, t.ex. på dina SD-kort."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CONTROL_VIBRATION_FEEDBACK"
+msgstr "Det här programmet kan styra vibrationsåterkoppling."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ACCESS_THE_INTERNET_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Det här programmet har åtkomst till Internet. Detta kan medföra extra avgifter, beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SAVE_KEYS_CERTIFICATES_AND_DATA_TO_AND_RETRIEVE_AND_DELETE_THEM_FROM_PASSWORD_PROTECTED_STORAGE"
+msgstr "Det här programmet kan spara nycklar, certifikat och data, samt hämta och ta bort dem från lösenordsskyddad lagring."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_LOCK_AND_UNLOCK_PASSWORD_PROTECTED_STORAGE_AND_MANAGE_PASSWORD_CHANGES_FOR_IT"
+msgstr "Det här programmet kan låsa och låsa upp lösenordsskyddad lagring och hantera lösenordsändringar för lagring."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TURN_LEDS_ON_OR_OFF_SUCH_AS_THE_LED_ON_THE_FRONT_OF_THE_DEVICE_AND_THE_CAMERA_FLASH"
+msgstr "Det här programmet kan slå på och av LED-lampor, t.ex. på fram sidan av enheten och i kamerans blixt."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CONTROL_YOUR_LOCATION_SERVICE_SETTINGS"
+msgstr "Det här programmet kan styra dina platstjänstinställningar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_FILES_IN_MEDIA_FOLDERS"
+msgstr "Det här programmet kan läsa och skriva filer i mediamappar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_TEXT_AND_MULTIMEDIA_MESSAGES_AND_ANY_INFORMATION_RELATED_TO_THEM"
+msgstr "Det här programmet kan läsa SMS och MMS och all information som rör dessa."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_NETWORK_INFORMATION_SUCH_AS_THE_STATUS_OF_EACH_NETWORK_ITS_TYPE_AND_DETAILED_NETWORK_PROFILE_INFORMATION"
+msgstr "Det här programmet kan hämta nätinformation som t.ex. status för varje nät, typ av nät och detaljerad nätprofilinformation."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ADD_REMOVE_AND_EDIT_NETWORK_PROFILES"
+msgstr "Det här programmet kan lägga till, ta bort och redigera nätverksprofiler."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TURN_WI_FI_AND_ON_AND_OFF_AND_CONNECT_TO_AND_DISCONNECT_FROM_WI_FI_AND_MOBILE_NETWORKS"
+msgstr "Det här programmet kan slå på och stänga av Wi-Fi och ansluta till eller koppla från Wi-Fi-nätverk och mobilnät."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHOW_AND_HIDE_ITS_OWN_NOTIFICATIONS_AND_BADGES"
+msgstr "Det här programmet kan visa och dölja sina egna aviseringar och märken."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_INSTALL_AND_UNINSTALL_APPLICATION_PACKAGES_AND_CLEAR_APPLICATIONS_CACHES"
+msgstr "Det här programmet kan installera eller avinstallera programpaket och rensa programmens cacheminnen."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_DETAILED_APPLICATION_PACKAGE_INFORMATION"
+msgstr "Det här programmet kan hämta detaljerad information om programpaket."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_NOTIFICATIONS_VIA_THE_INTERNET"
+msgstr "Det här programmet kan ta emot aviseringar via Internet."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECORD_VIDEO_AND_AUDIO"
+msgstr "Det här programmet kan spela in video och ljud."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_SCREENSHOTS"
+msgstr "Det här programmet kan ta skärmdumpar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_AND_DELETE_SHORTCUTS"
+msgstr "Det här programmet kan skapa och ta bort genvägar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_UNRESTRICTED_SYSTEM_SETTINGS"
+msgstr "Det här programmet kan läsa och skriva obegränsade systeminställningar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_ALL_SYSTEM_SETTINGS"
+msgstr "Det här programmet kan läsa och skriva alla systeminställningar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_TELEPHONY_INFORMATION_SUCH_AS_THE_NETWORK_AND_SIM_CARD_USED_THE_IMEI_AND_THE_STATUSES_OF_CALLS"
+msgstr "Det här programmet kan hämta telefoninformation, t.ex. vilket nätverkskort och SIM-kort som används, IMEI och status på samtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_TELEPHONY_SETTINGS_SUCH_AS_THOSE_FOR_INCOMING_AND_OUTGOING_CALLS_FORWARDING_AND_HOLDING_CALLS_NETWORKS_AND_SIM_CARDS"
+msgstr "Det här programmet kan hantera telefoninställningar, t.ex. för inkommande och utgående samtal, vidarekoppling och parkering av samtal, nät och SIM-kort."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ADJUST_THE_VOLUME_FOR_DIFFERENT_FEATURES_SUCH_AS_NOTIFICATION_ALERTS_RINGTONES_AND_MEDIA"
+msgstr "Det här programmet kan justera volymen för olika funktioner, till exempel aviseringsalarm, ringsignaler och media."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_INTERNET_HISTORY"
+msgstr "Det här programmet kan hantera din Internethistorik."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ENABLE_AND_DISABLE_WI_FI_DIRECT_MANAGE_WI_FI_DIRECT_CONNECTIONS_AND_CHANGE_WI_FI_DIRECT_SETTINGS"
+msgstr "Det här programmet kan aktivera och inaktivera Wi-Fi Direct, hantera Wi-Fi Direct-anslutningar och ändra Wi-Fi Direct-inställningar."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CREATE_EDIT_AND_DELETE_BOOKMARKS"
+msgstr "Det här programmet kan skapa, redigera och ta bort bokmärken."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_HEALTH_INFORMATION_GATHERED_BY_THE_DEVICE_SENSORS_SUCH_AS_THE_PEDOMETER_AND_THE_HEART_RATE_MONITOR"
+msgstr "Det här programmet kan läsa hälsoinformation som har samlats in med enhetens sensorer, som stegräknaren och pulsmätaren."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_MESSAGES_FROM_MESSAGE_BOXES_OR_RECEIVE_MESSAGES"
+msgstr "Det här programmet kan hämta meddelanden från meddelanderutor eller ta emot meddelanden."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_SECURE_SYSTEM_INFORMATION"
+msgstr "Det här programmet kan läsa säker systeminformation."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_DATA_EXPORTED_BY_DATA_CONTROL_PROVIDERS"
+msgstr "Det här programmet kan läsa data som har exporterats av leverantörer av datastyrda beställningar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_SYSTEM_INFORMATION"
+msgstr "Det här programmet kan läsa systeminformation."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_APPEAR_ON_TOP_OF_OTHER_WINDOWS_AND_SCREENS_MSG"
+msgstr "Det här programmet kan visas ovanpå andra fönster och skärmar, även låsskärmen, i enlighet med prioritetsordningen för fönstren. Detta kan hindra dig från att interagera med andra program eller skärmar tills fönstret för det här programmet är stängt."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_BLUETOOTH_SYSTEM_SETTINGS_RELATED_TO_PRIVACY_AND_SECURITY_SUCH_AS_THE_VISIBILITY_MODE"
+msgstr "Det här programmet kan ändra Bluetooth-systeminställningar för sekretess och säkerhet, t.ex. synlighetsläge."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_ITS_WEB_APPLICATION_SETTINGS_INCLUDING_DELETING_ITS_COOKIES"
+msgstr "Det här programmet kan ändra sina webbprograminställningar, som att ta bort egna cookies."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CLOSE_OTHER_APPLICATIONS"
+msgstr "Det här programmet kan stänga andra program."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CREATE_EDIT_AND_DELETE_ACCOUNTS"
+msgstr "Det här programmet kan skapa, redigera och ta bort konton."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ENABLE_AND_DISABLE_TETHERING_SERVICES"
+msgstr "Det här programmet kan aktivera och inaktivera Internetdelningstjänster."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MAKE_PHONE_CALLS_TO_NUMBERS_WHEN_THEY_ARE_TAPPED_WITHOUT_FURTHER_CONFIRMATION"
+msgstr "Det här programmet kan ringa samtal till nummer när du trycker på telefonnumren utan att bekräfta."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_AUDIO_RECORDINGS"
+msgstr "Det här programmet kan hantera ljudinspelningar."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_INSTALLED_INPUT_METHODS"
+msgstr "Det här programmet kan hantera installerade inmatningsmetoder."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_OPEN_OTHER_APPLICATIONS_USING_THE_APPLICATION_ID_OR_APPLICATION_CONTROL"
+msgstr "Det här programmet kan öppna andra program med hjälp av program-ID:t eller programstyrning."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACCOUNTS"
+msgstr "Det här programmet kan läsa konton."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_NFC_TAG_INFORMATION_AND_SEND_NFC_MESSAGES_TO_OTHER_DEVICES"
+msgstr "Det här programmet kan läsa och skriva NFC-tagginformation och skicka NFC-meddelanden till andra enheter."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_FILE_SYSTEMS"
+msgstr "Det här programmet kan läsa filsystem."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_MEDIA_CONTENT_INFORMATION"
+msgstr "Det här programmet kan läsa information med medieinnehåll."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_INFORMATION_RELATED_TO_OTHER_APPLICATIONS"
+msgstr "Det här programmet kan hämta information om andra program."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_SPECIFIED_APPLICATION_CERTIFICATES"
+msgstr "Det här programmet kan hämta specificerade programcertifikat."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SAVE_ITS_CONTENT_TO_YOUR_DEVICE_STORAGE_OR_EXTERNAL_STORAGE_LOCATIONS_SUCH_AS_SD_CARDS_WITH_NO_LIMIT_ON_THE_CONTENTS_SIZE"
+msgstr "Det här programmet kan spara sitt innehåll i enhetslagringen eller externa lagringsplatser som SD-kort, utan någon begränsning av innehållets storlek."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SET_ALARMS_AND_WAKE_THE_DEVICE_UP_AT_SCHEDULED_TIMES"
+msgstr "Det här programmet kan ställa in alarm och väcka enheten vid schemalagda tidpunkter."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SYNCHRONISE_DEVICE_DATA_SUCH_AS_CONTACTS_AND_CALENDAR_EVENTS_USING_THE_OMA_DS_12_PROTOCOL"
+msgstr "Det här programmet kan synkronisera enhetsdata som kontakter och kalenderhändelser med hjälp av OMA DS 1.2-protokollet."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_FULL_SCREEN_VIEW"
+msgstr "Det här programmet kan använda helskärmsvy."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_THE_BLUETOOTH_GENERIC_ACCESS_PROFILE_HGAP_TO_FOR_EXAMPLE_SCAN_FOR_AND_PAIR_WITH_DEVICES"
+msgstr "Det här programmet kan använda den allmänna Bluetooth-åtkomstprofilen (GAP), till exempel för att söka efter och sammankoppla enheter."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_THE_BLUETOOTH_HEALTH_DEVICE_PROFILE_HHDP_TO_FOR_EXAMPLE_SEND_HEALTH_INFORMATION"
+msgstr "Det här programmet kan använda hälsoenhetsprofilen (HDP) med Bluetooth för att till exempel skicka hälsoinformation."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_THE_BLUETOOTH_SERIAL_PORT_PROFILE_HSPP_TO_FOR_EXAMPLE_SEND_SERIAL_DATA"
+msgstr "Det här programmet kan använda Bluetooth-serieportsprofilen (SPP), till exempel för att skicka seriella data."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_YOUR_LOCATION_DATA"
+msgstr "Det här programmet kan använda dina platsdata."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TEXT_MESSAGES_MULTIMEDIA_MESSAGES_AND_EMAILS"
+msgstr "Det här programmet kan skriva SMS, MMS och e-post."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TO_FILE_SYSTEMS"
+msgstr "Det här programmet kan skriva till filsystem."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_ACCESS_SECURE_SMART_CARD_CHIPS_SUCH_AS_UICC_SIM_EMBEDDED_SECURE_ELEMENTS_AND_SECURE_SD_CARDS"
+msgstr "Det här programmet har åtkomst till chip på säkra smartkort, t.ex. UICC/SIM, inbäddade säkra element och säkra SD-kort."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CHANGE_AND_READ_USER_SETTINGS"
+msgstr "Det här programmet kan ändra och läsa användarinställningar."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CHANGE_NFC_SETTINGS_SUCH_AS_TURNING_NFC_ON_OR_OFF"
+msgstr "Det här programmet kan ändra NFC-inställningar, till exempel slå på och stänga av NFC."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_CONTROL_POWER_RELATED_SETTINGS_SUCH_AS_DIMMING_THE_SCREEN"
+msgstr "Det här programmet kan ändra inställningar som har med batteriförbrukningen att göra, t.ex. att dämpa skärmens ljus."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_INSTALL_OR_UNINSTALL_APPLICATION_PACKAGES"
+msgstr "Det här programmet kan installera eller avinstallera programpaket."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_PUSH_NFC_MESSAGES_TO_OTHER_DEVICES"
+msgstr "Det här programmet kan skicka NFC-pushmeddelanden till andra enheter."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_READ_AND_WRITE_NFC_TAG_INFORMATION"
+msgstr "Det här programmet kan läsa och skriva NFC-tagginformation."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_READ_BOOKMARKS"
+msgstr "Det här programmet kan läsa bokmärken."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_READ_CALL_LOG_ITEMS"
+msgstr "Det här programmet kan läsa poster i samtalsloggen."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_RECEIVE_PACKAGE_INFORMATION"
+msgstr "Det här programmet kan ta emot paketinformation."
+
+msgid "IDS_TPLATFORM_SBODY_THIS_APPLICATION_CAN_USE_NFC_COMMON_FEATURES"
+msgstr "Det här programmet kan använda vanliga NFC-funktioner."
+
+msgid "IDS_TPLATFORM_HEADER_USING_BASIC_NFC_SERVICES"
+msgstr "Använda grundläggande NFC-tjänster"
+
+msgid "IDS_TPLATFORM_HEADER_USING_NFC_CARD_EMULATION_MODE"
+msgstr "Använda NFC-kortemuleringsläge"
+
+msgid "IDS_TPLATFORM_HEADER_ACCESSING_TETHERING_SERVICES"
+msgstr "Få åtkomst till Internetdelningstjänster"
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_WINDOWS_ON_TOP_OF_OTHER_APPLICATIONS_AND_SCREENS"
+msgstr "Visar fönster ovanpå andra program och skärmar"
+
+msgid "IDS_TPLATFORM_HEADER_MAKING_PHONE_CALLS"
+msgstr "Ringa telefonsamtal"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ACCESS_SMART_CARD_DETAILS_SUCH_AS_CREDIT_CARD_DETAILS_AND_ALLOW_USERS_TO_MAKE_PAYMENTS_VIA_NFC"
+msgstr "Det här programmet har åtkomst till uppgifter om smartkort, t.ex. kreditkortsuppgifter, och låter användare betala via NFC."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_SEND_DELETE_AND_MOVE_TEXT_AND_MULTIMEDIA_MESSAGES_AND_CHANGE_THE_SETTINGS_AND_STATUSES_OF_MESSAGES_MSG"
+msgstr "Det här programmet kan skriva, skicka, ta bort och flytta SMS och MMS och ändra inställningar och status som t.ex. läst/oläst för meddelanden."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS"
+msgstr "Det här programmet kan begränsa enheten på så sätt att vissa specifika domäner bara kan öppnas via mobilnät."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_MEDIA_DATA"
+msgstr "Spela in mediedata"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_VIDEO_AND_AUDIO_DATA"
+msgstr "Det här programmet kan spela in video- och ljuddata."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_DISPLAY_EDIT_AND_DELETE_NOTIFICATIONS"
+msgstr "Det här programmet kan visa, redigera och ta bort aviseringar."
+
+msgid "IDS_TPLATFORM_HEADER_OPENING_AND_RESUMING_APPLICATIONS"
+msgstr "Starta och återuppta program"
+
+msgid "IDS_TPLATFORM_HEADER_MANAGING_ALARMS"
+msgstr "Hantera alarm"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_ALARMS_BY_RETRIEVING_SAVED_ALARMS_AND_WAKING_THE_DEVICE_UP_AT_SCHEDULED_TIMES"
+msgstr "Det här programmet kan hantera alarm genom att hämta sparade alarm och väcka enheten på schemalagda tider."
+
+msgid "IDS_TPLATFORM_HEADER_CHANGING_BLUETOOTH_SETTINGS"
+msgstr "Ändrar Bluetooth-inställningar"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_BLUETOOTH_SETTINGS_SUCH_AS_TURNING_BLUETOOTH_ON_OR_OFF_SETTING_THE_DEVICE_NAME_AND_ENABLING_OR_DISABLING_AV_REMOTE_CONTROL"
+msgstr "Det här programmet kan ändra Bluetooth-inställningar, t.ex. slå på eller av Bluetooth, ställa in enhetsnamnet och aktivera eller inaktivera AV-fjärrkontroll."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_INFORMATION_ABOUT_NOTIFICATIONS"
+msgstr "Det här programmet kan läsa information om aviseringar."
+
+msgid "IDS_TPLATFORM_HEADER_USING_FULL_SCREEN_VIEW"
+msgstr "Använda helskärm"
+
+msgid "IDS_TPLATFORM_HEADER_RETRIEVING_NOTIFICATION_INFORMATION"
+msgstr "Hämta aviseringsinformation"
+
+msgid "IDS_TPLATFORM_BODY_SENDING_TEXT_AND_MULTIMEDIA_MESSAGES_AND_UPDATING_THEIR_STATUSES_M_NOUN"
+msgstr "Skicka SMS och MMS och uppdatera deras statusar"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_HTTP_DOWNLOADS_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Programmet kan hantera HTTP-hämtningar. Detta kan medföra ytterligare avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_HEADER_READING_APPLICATION_USAGE_STATISTICS"
+msgstr "Läsa programs användningsstatistik"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_THE_STATISTICS_OF_APPLICATION_USAGE_SUCH_AS_WHICH_APPLICATIONS_HAVE_BEEN_USED_FREQUENTLY_OR_RECENTLY"
+msgstr "Det här programmet kan läsa statistiken om programanvändning, t.ex. vilka program som har använts ofta eller på sistone."
+
+msgid "IDS_TPLATFORM_HEADER_READING_MEDIA_PLAYBACK_STATISTICS"
+msgstr "Läsa statistik om medieuppspelning"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_THE_STATISTICS_CONCERNING_THE_MUSIC_AND_VIDEOS_PLAYED_ON_THE_DEVICE_SUCH_AS_THE_PEAK_TIMES_FOR_PLAYING_MUSIC_OR_VIDEOS"
+msgstr "Det här programmet kan läsa statistiken om den musik och de videor som har spelats på enheten, t.ex. de tider då musik eller videor spelas som mest."
+
+msgid "IDS_TPLATFORM_HEADER_LOGGING_MEDIA_CONTROL_EVENTS"
+msgstr "Logga mediekontrollhändelser"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_LOG_MEDIA_CONTROL_EVENTS_SUCH_AS_START_AND_STOP_TIMES_FOR_MUSIC_AND_VIDEOS"
+msgstr "Programmet kan logga mediekontrollhändelser, som start- och stopptider, för musik och videor."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_PROVIDE_USERS_WITH_A_WAY_TO_ENTER_CHARACTERS_AND_SYMBOLS_INTO_AN_ASSOCIATED_TEXT_FIELD"
+msgstr "Det här programmet ger användarna möjlighet att ange tecken och symboler i ett kopplat textfält."
+
+msgid "IDS_TPLATFORM_HEADER_PROVIDING_INPUT_METHODS"
+msgstr "Tillhandahålla inmatningsmetoder"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TAKE_PICTURES_AND_TURN_THE_CAMERA_FLASH_ON_AND_OFF_WHILE_USING_CAMERA"
+msgstr "Det här programmet kan ta bilder och använda och stänga av blixten när Kamera används."
+
+msgid "IDS_TPLATFORM_HEADER_CLOSING_BACKGROUND_APPLICATIONS"
+msgstr "Stänger bakgrundsprogram"
+
+msgid "IDS_TPLATFORM_HEADER_GENERATING_TOUCH_AND_KEY_EVENTS"
+msgstr "Genererar berörings- och knapphändelser"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SIMULATE_KEYS_BEING_PRESSED_AND_TOUCH_INTERACTIONS_WITH_THE_SCREEN"
+msgstr "Det här programmet kan simulera tangenttryckningar och beröringar av skärmen."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_REQUEST_TO_CLOSE_APPLICATIONS_RUNNING_IN_THE_BACKGROUND"
+msgstr "Programmet kan begära att program som körs i bakgrunden stängs."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MAKE_PHONE_CALLS_TO_NUMBERS_WHEN_THEY_ARE_TAPPED_WITHOUT_FURTHER_CONFIRMATION_MSG"
+msgstr "Det här programmet kan ringa till nummer utan någon bekräftelse när de matas in. Detta kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_EMAIL_ACCOUNTS_INCLUDING_YOUR_FOLDERS_AND_EMAILS_POP3_AND_IMAP_DOWNLOADS_AND_SMTP_UPLOADS_MSG"
+msgstr "Det här programmet kan hantera dina e-postkonton, däribland dina mallar och din e-post, POP3- och IMAP-hämtningar samt SMTP-överföringar. Detta kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_NOTIFICATIONS_VIA_THE_INTERNET_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Det här programmet kan ta emot aviseringar via internet. Detta kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SAVE_KEYS_CERTIFICATES_AND_DATA_TO_AND_RETRIEVE_MSG"
+msgstr "Det här programmet kan spara nycklar, certifikat och data i och hämta och radera dem från lösenordsskyddad lagring. Kontroll av status för certifikat medan du är ansluten till ett mobilnät kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_MEDIA_PLAYER"
+msgstr "Kontrollerar mediaspelaren"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_INFORMATION_ABOUT_CURRENTLY_PLAYING_MEDIA_FROM_APPLICATIONS_THAT_ARE_ALLOWED_TO_SEND_IT_MSG"
+msgstr "Programmet kan ta emot information om media som spelas just nu från program som har rätt att skicka uppgifterna. Det här programmet kan också fjärrstyra programmen."
+
+msgid "IDS_TPLATFORM_HEADER_ACCEPTING_REMOTE_CONTROLS"
+msgstr "Accepterar fjärrkontroller"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SEND_INFORMATION_ABOUT_CURRENTLY_PLAYING_MEDIA_TO_APPLICATIONS_THAT_ARE_ALLOWED_TO_RECEIVE_IT_MSG"
+msgstr "Programmet kan skicka information om media som spelas just nu till program som har rätt att ta emot uppgifterna. Det här programmet kan också fjärrstyras av programmen."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_SEND_DELETE_AND_MOVE_TEXT_AND_MULTIMEDIA_MESSAGES_DOWNLOAD_MULTIMEDIA_MESSAGES_MSG"
+msgstr "Det här programmet kan skriva, skicka, radera och flytta SMS och MMS, hämta multimediameddelanden och ändra inställningar och status för meddelanden, t.ex. lästa eller olästa. Detta kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_TURN_WI_FI_ON_AND_OFF_AND_CONNECT_TO_AND_DISCONNECT_FROM_WI_FI_AND_MOBILE_NETWORKS_MSG"
+msgstr "Det här programmet kan slå på och stänga av Wi-Fi och ansluta till eller koppla från Wi-Fi-nätverk och mobilnät. Detta kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_HEADER_INSTALLING_UNINSTALLING_APPLICATION_PACKAGES"
+msgstr "Installerar/avinstallerar programpaket"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_INSTALL_AND_UNINSTALL_APPLICATION_PACKAGES"
+msgstr "Det här programmet kan installera och avinstallera programpaket."
+
+msgid "IDS_TPLATFORM_HEADER_CLEARING_OTHER_APPLICATIONS_CACHES"
+msgstr "Rensar cacher för andra program"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CLEAR_OTHER_APPLICATIONS_CACHES"
+msgstr "Det här programmet kan rensa cachedata för andra program."
+
+msgid "IDS_TPLATFORM_HEADER_RESTARTING_DEVICE"
+msgstr "Starta om enhet"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTART_THE_DEVICE"
+msgstr "Det här programmet kan starta om enheten."
+
+msgid "IDS_TPLATFORM_HEADER_MONITORING_SYSTEM_RESOURCES"
+msgstr "Övervakar systemresurser"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_SYSTEM_INFORMATION_INCLUDING_INFORMATION_FROM_THE_CPU_AND_RAM"
+msgstr "Det här programmet kan läsa systeminformation, även information från CPU:n och RAM-minnet."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_ENABLE_AND_DISABLE_TETHERING_SERVICES_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Det här programmet kan aktivera och inaktivera internetdelningstjänster. Detta kan medföra extra avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_HEADER_SHOWING_WIDGETS"
+msgstr "Visa widgetar"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHOW_WIDGETS_AND_INFORMATION_FROM_THEIR_ASSOCIATED_APPLICATIONS_ON_THE_HOME_SCREEN"
+msgstr "Det här programmet kan visa widgetar och information från deras associerade program på hemskärmen."
+
+msgid "IDS_TPLATFORM_HEADER_USING_MAP_SERVICES"
+msgstr "Använda karttjänster"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_MAP_SERVICES_SUCH_AS_GEOCODER_PLACES_AND_ROUTE_HDIRECTION"
+msgstr "Det här programmet kan använda karttjänster, till exempel Geocoder, platser och rutt (anvisning)."
+
+msgid "IDS_TPLATFORM_HEADER_SHOWING_TOOLBAR"
+msgstr "Visa verktygsfält"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SHOW_A_SMALL_TOOLBAR_ON_THE_NOTIFICATION_PANEL_OR_LOCK_SCREEN_WHILE_IT_IS_OPEN"
+msgstr "Programmet kan visa ett litet verktygsfält på aviseringspanelen eller låsskärmen när det är öppet."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SYNC_DEVICE_DATA_SUCH_AS_CONTACTS_AND_CALENDAR_EVENTS_USING_THE_OMA_DS_12_PROTOCOL_MSG"
+msgstr "Det här programmet kan synkronisera enhetsdata med protokollet OMA DS 1.2, t.ex. kontakter och kalenderhändelser. Detta kan medföra ytterligare avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_EMAILS_TEXT_MESSAGES_AND_MULTIMEDIA_MESSAGES_FROM_THE_SERVER_OR_RECEIVE_THEM_DIRECTLY_MSG"
+msgstr "Programmet kan hämta eller direkt ta emot e-post, SMS och MMS från servern. Detta kan medföra ytterligare avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TEXT_MESSAGES_MULTIMEDIA_MESSAGES_AND_EMAILS_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
+msgstr "Det här programmet kan skicka SMS, MMS och e-postmeddelanden. Detta kan medföra ytterligare avgifter beroende på ditt avtal."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
+msgstr "Det här programmet kan begränsa enheten så att vissa specifika domäner bara går att komma åt via mobilnät. Detta kan medföra ytterligare avgifter beroende på ditt avtal."
+
