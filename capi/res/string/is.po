@@ -763,3 +763,45 @@ msgstr "Þetta forrit getur skrifað SMS, margmiðlunarskilaboð og tölvupóst.
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Þetta forrit getur takmarkað virkni tækisins á þann hátt að aðeins er hægt að opna sum lén í gegnum farsímakerfi. Þetta kann að hafa viðbótarkostnað í för með sér, allt eftir áskrift."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Tilkynningar"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ónáðið ekki"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Stjórnun hljóðstyrks og spilun hljóðs"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Þetta forrit getur breytt hljóðstyrknum, kveikt og slökkt á hljóðlausri stillingu, greint breytingar á hljóðstyrk og gefið frá sér hljóðmerki."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Val á sjónvarpsstöð og lestur sjónvarpsstöðvar og dagskrárupplýsinga"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Þetta forrit getur skipt á milli sjónvarpsstöðva, lesið upplýsingar um sjónvarpsstöðvar og dagskrá og móttekið tilkynningar þegar skipt er á milli stöðva."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Skoðun á hvort tæki styður þrívídd og upplýsingar um áhrif þrívíddarstillingar sóttar"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Þetta forrit getur athugað hvort tæki styður þrívídd og lesið upplýsingar um áhrif þrívíddarstillingar."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Skráning innsláttar í inntakstækjum, t.d. sjónvarpsfjarstýringu"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Þetta forrit getur skráð innslátt inntakstækis, t.d. sjónvarpsfjarstýringar, og hætt að skrá innslátt."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Birting uppruna myndskeiðs sem innfellt er í þetta forrit"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Þetta forrit getur fellt inn myndskeið, tilgreint stærðina og sýnt eða falið innfellda myndskeiðið."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Þetta forrit getur lesið aðgerðir sem tengjast sérstökum lyklum, til dæmis hljóðstyrkstökkum þessa tækis eða annarra (t.d. sjónvarpsfjarstýringa), jafnvel þótt það keyri í bakgrunni."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Fanga sérstaka lyklavirkni"
+

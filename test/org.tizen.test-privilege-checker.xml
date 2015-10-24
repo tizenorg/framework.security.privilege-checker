@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.0" package="org.tizen.test-privilege-checker" version="1.0.1" install-location="internal-only">
+    <label>Test Privilege Checker</label>
+    <author email="" href="">None</author>
+    <ui-application appid="org.tizen.test-privilege-checker" exec="/usr/apps/org.tizen.test-privilege-checker/bin/tc-privilege-checker" nodisplay="true" multiple="false" type ="capp" taskmanage="false" component-type="svcapp">
+        <label>org.tizen.test-privilege-checker</label>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/contact.read</privilege>
+    </privileges>
+</manifest>
+
+

@@ -763,3 +763,45 @@ msgstr "Tämä sovellus pystyy kirjoittamaan teksti- ja multimediaviestejä sek�
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Tämä sovellus pystyy rajoittamaan laitteen käyttöä niin, että tiettyjä toimialueita voi käyttää vain matkapuhelinverkkojen kautta. Tästä voidaan periä lisämaksuja tilauksesi mukaan."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Ilmoitukset"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Älä häiritse"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Äänenvoimakkuustason hallinta ja äänimerkin toistaminen"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Tämä sovellus pystyy muuttamaan äänenvoimakkuutta, ottamaan äänettömän tilan käyttöön ja poistamaan sen käytöstä, tunnistamaan äänenvoimakkuuden muutokset ja antamaan äänimerkkejä."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Televisiokanavan hallinta sekä televisiokanava- ja ohjelmatietojen lukeminen"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Tämä sovellus pystyy vaihtamaan televisiokanavaa, lukemaan televisiokanavia ja -ohjelmia koskevia tietoja sekä vastaanottamaan ilmoituksia, kun televisiokanavaa on vaihdettu."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Laitteen 3D-tuen tarkistaminen ja tietojen hakeminen 3D-tilan vaikutuksista"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Tämä sovellus pystyy tarkistamaan, tukeeko laite 3D-tilaa, ja lukemaan tietoja 3D-tilasta."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Syöttölaitteiden, esimerkiksi television kaukosäätimen, näppäintapahtumien sieppaaminen"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Tämä sovellus pystyy tallentamaan syöttölaitteen, kuten television kaukosäätimen, näppäintapahtumat ja vapauttamaan näppäinten tallennuksen."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Tähän sovellukseen upotetun videolähteen näyttäminen"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Tämä sovellus pystyy upottamaan videolähteen näytön, määrittämään sen koon ja näyttämään tai piilottamaan upotetun näytön."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Tämä sovellus pystyy lukemaan erikoisnäppäimiin, kuten tämän laitteen tai muiden laitteiden (esimerkiksi televisioiden kaukosäätimien) äänenvoimakkuusnäppäimiin, liittyviä tapahtumia, vaikka se on käynnissä taustalla."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Erikoistapahtumien sieppaus"
+

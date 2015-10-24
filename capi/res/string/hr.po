@@ -763,3 +763,45 @@ msgstr "Ova aplikacija može pisati tekstualne poruke, multimedijske poruke i po
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Ova aplikacija može ograničiti uređaj tako da se određenim domenama može pristupiti samo putem mobilnih mreža. To može uzrokovati dodatne troškove ovisno o vašoj tarifi."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Obavijesti"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ne ometajte"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Upravljanje razinom glasnoće i reproduciranje zvučnog signala"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Ova aplikacija može promijeniti glasnoću, uključiti i isključiti Bešumni način, prepoznati promjene u glasnoći te reproducirati zvučne signale."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Upravljanje TV kanalom te čitanje TV kanala i informacija o programu"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Ova aplikacija može promijeniti TV kanal, čitati informacije o TV kanalima i programima te primati obavijesti kad se TV kanal promijeni."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Provjeravanje podržava li uređaj 3D i dobivanje informacija o efektima 3D načina"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Ova aplikacija može provjeriti podržava li uređaj 3D i čitati informacije o 3D načinu."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Snimanje događaja s tipkom ulaznih uređaja poput daljinskog upravljača TV-a"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Ova aplikacija može snimiti događaje s tipkom ulaznog uređaja poput daljinskog upravljača TV-a te omogućiti dohvaćanje tipki."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Prikaz izvora videozapisa ugrađenog u ovu aplikaciju"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Ova aplikacija može ugraditi prikaz izvora videozapisa, odrediti veličinu te prikazati ili sakriti ugrađeni prikaz."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Ova aplikacija može čitati radnje s posebnim tipkama poput tipki za glasnoću na ovom ili drugim uređajima (npr. daljinskim upravljačima TV-a), čak i ako radi u pozadini."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Bilježenje posebnih događaja s tipkom"
+

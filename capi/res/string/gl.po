@@ -763,3 +763,45 @@ msgstr "Esta aplicación pode escribir mensaxes de texto, mensaxes multimedia e 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Esta aplicación pode restrinxir o dispositivo de xeito que a algúns dominios específicos só se poida acceder a través de redes móbiles. Isto pode carrexar custos adicionais dependendo do teu plan de pagamento."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Notificacións"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Non molestar"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Control do nivel de volume e reprodución do audio do son"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Esta aplicación pode cambiar o volume, activar e desactivar o modo Silencio, detectar cambios de volume e reproducir sons."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Control da canle de televisión e lectura da información da canle de televisión e dos programas"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Esta aplicación pode cambiar a canle da televisión, ler información acerca de canles e programas de televisión e recibir notificacións acerca de cando se cambiou a canle de televisión."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Comprobación se un dispositivo admite 3D e obtención de información acerca dos efectos do modo 3D"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Esta aplicación pode comprobar se un dispositivo admite 3D e ler información acerca do modo 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Captura de eventos clave de dispositivos de entrada, por exemplo, o mando a distancia do televisor"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Esta aplicación pode capturar os eventos clave dun dispositivo de entrada, por exemplo, dun mando a distancia dun televisor e a captura da combinación de teclas de liberación."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Visualización da orixe de vídeo inserida nesta aplicación"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Esta aplicación pode inserir a visualización dunha orixe de vídeo, especificar o tamaño e mostrar ou ocultar a visualización inserida."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Esta aplicación pode ler accións que inclúan teclas especiais, como as teclas de volume neste ou outros dispositivos (por exemplo, mando a distancia de TV), incluso cando se está executando en segundo plano."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Captura de eventos clave especiais"
+

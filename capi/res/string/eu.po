@@ -763,3 +763,45 @@ msgstr "Aplikazio honek testu eta multimedia mezuak idatz ditzake, bai eta mezu 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Aplikazio honek gailua muga dezake, domeinu jakin batzuetan sare mugikorren bidez bakarrik sartzeko. Baliteke kostu osagarriak eragitea zure tarifaren arabera."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Jakinarazpenak"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ez molestatu"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Bolumena kontrolatzea eta bip audioa erreproduzitzea"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Bolumena aldatu, Modu isila gaitu eta desgaitu, bolumen aldaketak hauteman eta soinuak erreproduzitu ditzake aplikazio honek."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Telebista kanala kontrolatzea, eta telebista kanala eta programaren informazioa irakurtzea"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Telebista kanala aldatu, telebista kanalei eta telesaioei buruzko informazioa irakurri, eta telebista kanala aldatzearen jakinarazpenak jaso ditzake aplikazioak."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Gailuaren 3D bateragarritasuna egiaztatzea eta 3D moduaren efektuei buruzko informazioa eskuratzea"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Gailuaren 3D bateragarritasuna egiaztatu eta 3D moduari buruzko informazioa eskura dezake aplikazioak."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Sarrerako gailuen gertaera nagusiak kapturatzea, adibidez, telebistaren urruneko kontrolarenak"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Sarrerako gailuen gertaera nagusiak kaptura ditzake aplikazioak, adibidez, telebistaren urruneko kontrolarenak eta askatzeko teklarenak."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Bideoaren iturburua aplikazio honetan kapsulatuta bistaratzea"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Bideo iturburuen bistaratzea kapsulatu, neurria zehaztu eta bistaratze kapsulatua erakutsi edo ezkuta dezake aplikazioak."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Tekla bereziei dagozkien ekintzak irakur ditzake aplikazio honek, hala nola gailu honetako edo beste gailu batzuetako (adib., telebistako urrutiko agintea) bolumen teklak, nahiz eta atzealdean exekutatzen aritu."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Gertaera berezi nagusien argazkiak"
+

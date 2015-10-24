@@ -763,3 +763,45 @@ msgstr "Denne appen kan skrive tekstmeldinger, multimediemeldinger og e-poster. 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Denne appen kan begrense enheten slik at enkelte bestemte domener bare kan åpnes via mobilnett. Dette kan medføre ekstra kostnader, avhengig av abonnementet ditt."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Varsler"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ikke forstyrr"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Kontrollerer volumnivået og spiller av pipelyden"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Denne appen kan endre volumet, aktivere og deaktivere Stillemodus, oppdage volumendringer og spille av pip."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Kontrollerer TV-kanalen og leser informasjon om TV-kanal og -program"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Denne appen kan endre TV-kanalen, lese informasjon om TV-kanaler og -programmer og motta varsler når TV-kanalen har blitt endret."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Kontrollerer om en enhet støtter 3D og får informasjon om effektene i 3D-modus"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Denne appen kan kontrollere om en enhet støtter 3D og lese informasjon om effektene i 3D-modus."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Foreviger nøkkelhendelser på inndataenheter, f.eks. TV-fjernkontroller"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Denne appen kan registrere tastehendelser i en inndataenhet, f.eks. en TV-fjernkontroll, og frigjøre tastelogger."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Viser videokilde innebygget i denne appen"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Denne appen kan innebygge visningen av en videokilde, spesifisere størrelsen og vise eller skjule den innebygde visningen."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Denne appen kan lese handlinger som involverer spesialtaster, som volumtastene på denne eller andre enheter (f.eks. TV-fjernkontroller), selv når den kjøres i bakgrunnen."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Ta bilde av spesielle nøkkelhendelser"
+

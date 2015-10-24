@@ -763,3 +763,45 @@ msgstr "Այս ծրագիրը կարող է գրել տեքստային հաղո
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Այս ծրագիրը կարող է սահմանափակել սարքը, որպեսզի միայն շարժական կապի ցանցերի միջոցով հնարավոր լինի մուտք գործել դեպի որոշ կոնկրետ տիրույթներ: Դա կարող է լրացուցիչ վճարների հանգեցնել՝ Ձեր վճարային պլանից կախված:"
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Ծանուցումներ"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Չանհանգստացնել"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Կառավարում է ձայնի ուժգնությունը և ձայնային ազդանշաններ է հնչեցնում"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Այս ծրագիրը կարող է փոխել ձայնի ուժգնությունը, ընձեռի կամ կասեցնի Լուռ ռեժիմը, հայտնաբերել ձայնի փոփոխությունները և նվագարկել ազդանշանները:"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Կառավարում է ՀՏ ալիքը և տեղեկություններ է կարդում ՀՏ ալիքի ու հաղորդումների ծրագրի մասին"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Այս ծրագիրը կարող է փոխել ՀՏ ալիքը, տեղեկություններ կարդալ ՀՏ ալիքների ու հաղորդումների ծրագրի մասին և ծանուցումներ ստանալ, երբ ՀՏ ալիքը փոխված լինի:"
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Ստուգում է՝ արդյոք սարքն ապահովում է 3D, և տեղեկատվություն է ստանում 3D ռեժիմի էֆեկտների մասին"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Այս ծրագիրը կարող է ստուգել՝ արդյոք սարքն ապահովում է 3D, և տեղեկատվություն կարդալ 3D ռեժիմի մասին:"
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Սևեռում է ներածման սարքերի, օրինակ՝ ՀՑ հեռակառավարման սարքի, կարևոր իրադարձությունները"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Այս ծրագիրը կարող է սևեռել ներածման սարքի, օրինակ՝ ՀՑ հեռակառավարման սարքի, կարևոր իրադարձությունները և բաց թողնել ստեղների կալումը:"
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Ցուցադրում է այս ծրագրում ներդրված տեսանյութի աղբյուրը"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Այս ծրագիրը կարող է ներդնել տեսանյութի աղբյուրի ցուցադրումը, նշել չափը և ցույց տալ կամ թաքցնել ներդրված ցուցադրումը:"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Այս ծրագիրը կարող է կարդալ հատուկ ստեղներով, օրինակ՝ ձայնի ուժգնության ստեղներով կատարվող գործողություններն այս կամ այլ սարքերի վրա (օր.՝ ՀՑ հեռակառավարման տարրերի), նույնիսկ երբ այն գործում է հետին պլանում:"
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Սևեռում է հատուկ կարևոր իրադարձություններ"
+

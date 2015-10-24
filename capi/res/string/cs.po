@@ -763,3 +763,45 @@ msgstr "Aplikace může psát textové zprávy, multimediální zprávy a e-mail
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Aplikace může omezit zařízení tak, že některé zadané domény budou dostupné pouze prostřednictvím mobilních sítí. To může mít za následek další poplatky v závislosti na vašem tarifu."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Oznámení"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Nerušit"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Kontrola úrovně hlasitosti a přehrávání pípání"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Tato aplikace může měnit hlasitost, zapínat a vypínat Tichý režim, detekovat změny hlasitosti a přehrávat pípnutí."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Kontrola TV kanálu a čtení TV kanálu a informací o programech"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Tato aplikace může měnit TV kanál, číst informace o TV kanálech a programech a přijímat upozornění při změně TV kanálu."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Kontrola, zda zařízení podporuje 3D a získání informací o efektech režimu 3D"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Tato aplikace může kontrolovat, zda zařízení podporuje 3D, a číst informace o režimu 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Zachycování stisknutí tlačítek vstupních zařízení, např. dálkového ovládání TV"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Tato aplikace může zachycovat stisknutí tlačítek vstupního zařízení, např. dálkového ovládání TV, a uvolňovat monitorování tlačítek."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Zobrazení zdroje videa integrovaného v aplikaci"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Tato aplikace může integrovat displej zdroje videa, specifikovat velikost a zobrazit nebo skrýt integrovaný displej."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Tato aplikace dokáže číst akce včetně speciálních tlačítek, například tlačítek pro ovládání hlasitosti v tomto zařízení nebo v jiných zařízeních (například dálkových ovládáních TV), i když je spuštěná na pozadí."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Zachycování akcí speciálních tlačítek"
+

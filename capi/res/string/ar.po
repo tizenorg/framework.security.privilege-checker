@@ -763,3 +763,45 @@ msgstr "يمكن لهذا التطبيق كتابة الرسائل النصية 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "يمكن لهذا التطبيق تقييد الجهاز بحيث يتم الوصول إلى بعض المجالات المحددة فقط عبر شبكات الهاتف المحمول. قد يترتب على هذا الإجراء فرض رسوم إضافية وفقاً لخطة الدفع."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "الإشعارات"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "عدم الإزعاج"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "التحكم بمستوى الصوت وتشغيل صوت الإشارة الصوتية"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "يمكن لهذا التطبيق تغيير مستوى الصوت وتفعيل الوضع الصامت وإلغاء تفعيله واكتشاف التغيير في مستوى الصوت وتشغيل الإشارات الصوتية."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "التحكم بقناة التلفاز وقراءة معلومات القنوات والبرامج التلفزيونية"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "يمكن لهذا التطبيق تغيير قناة التلفاز، وقراءة معلومات حول القنوات والبرامج التلفزيونية، وتلقي إشعارات عند تغيير قناة التلفاز."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "التحقق ما إذا كان الجهاز يدعم التقنية الثلاثية الأبعاد والحصول على معلومات حول تأثيرات الوضع الثلاثي الأبعاد"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "يمكن أن يتحقق هذا التطبيق من ما إذا كان الجهاز يدعم التقنية الثلاثية الأبعاد وقراءة معلومات حول الوضع الثلاثي الأبعاد."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "التقاط الأحداث الأساسية لأجهزة الإدخال، مثل جهاز التحكم عن بعد للتلفاز"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "يمكن لهذا التطبيق التقاط الأحداث الأساسية لجهاز إدخال، مثل جهاز التحكم عن بعد للتلفاز، وتحرير المفتاح بعد إمساكه."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "عرض مصدر الفيديو المضمّن في هذا التطبيق"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "يمكن لهذا التطبيق إرفاق عرض مصدر الفيديو، وتعيين الحجم، وإظهار العرض المرفق أو إخفائه."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "يمكن لهذا التطبيق قراءة الإجراءات ذات الصلة بالمفاتيح المميزة، مثل مفتاحَي التحكم بمستوى الصوت على هذا الجهاز أو غيره من الأجهزة (مثل خيارات التحكم في التلفاز عن بعد)، حتى عندما تكون قيد التشغيل في الخلفية."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "تلقّي أحداث المفتاح الخاص"
+

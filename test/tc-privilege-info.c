@@ -41,8 +41,7 @@ static const char* __get_result_string(privilege_manager_error_e ret){
     else if(ret == PRVMGR_ERR_INTERNAL_ERROR){
         return "PRVMGR_ERR_INTERNAL_ERROR";
     }
-
-    return "PRVMGR_ERR_UNDEFINED_ERR";
+	return "FAIL";
 }
 
 static void __check_get_privilege_display_name_result(privilege_manager_error_e expected_result, privilege_manager_error_e result, const char* display_name)

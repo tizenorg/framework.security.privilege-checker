@@ -763,3 +763,45 @@ msgstr "Az alkalmazás szöveges, multimédiás és e-mail üzeneteket írhat. E
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Az alkalmazás korlátozhatja az eszközt, így bizonyos tartományok hozzáféréséhez mobilhálózatot kell használni. Ez az előfizetési csomagtól függően további költséggel járhat."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Értesítések"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ne zavarjanak"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "A hangerő szabályozása és sípszó megszólaltatása"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Az alkalmazás módosíthatja a hangerőt, be- és kikapcsolhatja a Csendes üzemmódot, észlelheti a hangerő változásait, és hangjelzést adhat."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "A tévécsatornák vezérlése, valamint a tévécsatornákkal és műsorokkal kapcsolatos információk olvasása"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Az alkalmazás tévécsatornát válthat, olvashatja a csatornákkal és a műsorokkal kapcsolatos információkat, csatornaváltás esetén pedig értesítést kap."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Annak ellenőrzése, hogy támogatja-e az eszköz a 3D-t, és információk lekérése a 3D üzemmód effektjeiről"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Az alkalmazás ellenőrizheti, hogy támogatja-e az eszköz a 3D-t, és olvashatja a 3D üzemmóddal kapcsolatos információkat."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Beviteli eszközök, például tv-távvezérlő billentyűeseményeinek naplózása"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Az alkalmazás naplózhatja egy beviteli eszköz, például tv-távvezérlő billentyűeseményeit, és feloldhatja a beragadt billentyűket."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Az alkalmazásba ágyazott videóforrás megjelenítése"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Az alkalmazás beágyazhatja egy videóforrás megjelenítését, meghatározhatja ennek méretét, és elrejtheti vagy megjelenítheti a beágyazott videóforrást."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Az alkalmazás a háttérben futva is olvashatja a speciális – például hangerő-szabályozó – gombokkal végzett műveleteket ezen vagy más eszközön (pl. tv-távvezérlőn)."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Speciális gombok eseményeinek naplózása"
+

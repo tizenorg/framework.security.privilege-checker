@@ -763,3 +763,45 @@ msgstr "Cette application peut écrire des SMS, des MMS et des e-mails. Cela peu
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Cette application peut limiter l'utilisation de l'appareil de sorte que certains domaines ne soient accessibles que par l'intermédiaire des réseaux mobiles. Cela peut entraîner des frais supplémentaires en fonction de votre forfait."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Notifications"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ne pas déranger"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Contrôle du volume et lecture du son du bip"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Cette application peut modifier le volume, activer et désactiver le mode Discret, détecter les changements de volume et lire des sons."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Contrôle de la chaine TV et lecture des informations sur les chaines TV et les programmes"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Cette application permet de modifier la chaine TV, de lire les informations sur les chaines et les programmes TV, et de recevoir des notifications lorsque la chaine TV a été modifiée."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Vérification de prise en charge de la 3D et obtention d'informations sur les effets du mode 3D"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Cette application peut vérifier si un appareil prend en charge la 3D et lire des informations sur le mode 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Capture des évènements des touches des appareils d'entrée, par exemple la télécommande"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Cette application permet de capturer les évènements des touches d'un appareil d'entrée (par exemple, une télécommande) et de débloquer la capture de touches."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Affichage de la source vidéo intégrée dans cette application"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Cette application peut intégrer l'affichage d'une source vidéo, indiquer la taille, et afficher ou masquer l'affichage intégré."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Cette application peut interpréter des actions impliquant des touches spéciales, comme les touches de volume de cet appareil ou d'autres appareils (par exemple, les télécommandes TV), et ce, même lorsqu'elle est exécutée en arrière-plan."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Capture d'événements spéciaux importants"
+

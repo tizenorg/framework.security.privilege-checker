@@ -763,3 +763,45 @@ msgstr "Ova aplikacija može da piše tekstualne poruke, multimedijalne poruke i
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Ova aplikacija može da ograniči uređaj tako da je nekim specifičnim domenima moguće pristupiti samo putem mobilnih mreža. To može dovesti do dodatnih troškova u zavisnosti od tarifnog paketa."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Obaveštenja"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ne uznemiravaj"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Kontrolisanje nivoa jačine zvuka i reprodukovanje zvučnog signala"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Ova aplikacija može da promeni jačinu zvuka, omogući i onemogući Nečujni režim, detektuje promene jačine zvuka i reprodukuje zvučne signale."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Kontrolisanje i čitanje TV kanala i informacija o programima"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Ova aplikacija može da menja TV kanal, da čita informacije o TV kanalima i programima i da prima obaveštenja kada se TV kanal promeni."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Provera da li uređaj podržava 3D i pribavljanje informacija o efektima 3D režima"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Ova aplikacija može da proverava da li uređaj podržava 3D i da čita informacije o 3D režimu."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Snimanje ključnih događaja ulaznih uređaja npr. daljinskog upravljača TV-a"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Ova aplikacija može da snima ključne događaje ulaznog uređaja npr. daljinskog upravljača TV-a i hvatanje tastera za objavljivanje."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Prikazivanje izvora video zapisa ugrađenog u ovu aplikaciju"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Ova aplikacija može da priloži ekran izvora video zapisa, da odredi veličinu i prikaže ili sakrije priloženi ekran."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Ova aplikacija može da čita radnje koje uključuju specijalne tastere kao što su tasteri za jačinu zvuka na ovom uređaju ili drugim uređajima (npr. na daljinskim upravljačima za TV), čak i kada je pokrenuta u pozadini."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Snimanje događaja specijalnim tasterom"
+

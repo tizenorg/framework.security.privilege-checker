@@ -239,10 +239,10 @@ msgid "IDS_TPLATFORM_BODY_MANAGING_DISPLAY_SETTINGS_M_NOUN"
 msgstr "Gestionarea setărilor de afişare"
 
 msgid "IDS_TPLATFORM_BODY_MANAGING_EMAIL_ACCOUNTS_MAILBOXES_AND_EMAILS_M_NOUN"
-msgstr "Gestionarea conturilor de email, a cutiilor poştale şi a emailurilor"
+msgstr "Gestionarea conturilor de e-mail, a cutiilor poştale şi a e-mailurilor"
 
 msgid "IDS_TPLATFORM_BODY_MANAGING_EMAIL_CONFIGURATIONS_M_NOUN"
-msgstr "Gestionarea configuraţiilor pentru email"
+msgstr "Gestionarea configuraţiilor pentru e-mail"
 
 msgid "IDS_TPLATFORM_BODY_ACCESSING_EXTERNAL_STORAGE_M_NOUN"
 msgstr "Accesarea spaţiului de stocare extern"
@@ -359,10 +359,10 @@ msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_DISPLAY_SETTINGS_SUCH_AS_T
 msgstr "Această aplicaţie poate gestiona setările de afişare, cum ar fi luminozitatea. Aceasta poate creşte consumul bateriei."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_EMAIL_ACCOUNTS_INCLUDING_YOUR_FOLDERS_AND_EMAILS"
-msgstr "Această aplicaţie poate gestiona conturile de email, inclusiv folderele şi emailurile dvs."
+msgstr "Această aplicaţie poate gestiona conturile de e-mail, inclusiv folderele şi e-mailurile dvs."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_THE_SETTINGS_OF_EMAIL_APPLICATIONS"
-msgstr "Această aplicaţie poate gestiona setările aplicaţiilor de email."
+msgstr "Această aplicaţie poate gestiona setările aplicaţiilor de e-mail."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_AND_WRITE_FILES_THAT_ARE_SAVED_TO_EXTERNAL_STORAGE_SUCH_AS_SD_CARDS"
 msgstr "Această aplicaţie poate citi şi scrie fişiere care sunt salvate în spaţiul de stocare extern, cum ar fi carduri SD."
@@ -536,7 +536,7 @@ msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_YOUR_LOCATION_DATA"
 msgstr "Această aplicaţie poate utiliza datele privind locaţia."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TEXT_MESSAGES_MULTIMEDIA_MESSAGES_AND_EMAILS"
-msgstr "Această aplicaţie poate scrie mesaje text şi multimedia, precum şi emailuri."
+msgstr "Această aplicaţie poate scrie mesaje text şi multimedia, precum şi e-mailuri."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TO_FILE_SYSTEMS"
 msgstr "Această aplicaţie poate scrie în sistemele de fişiere."
@@ -680,7 +680,7 @@ msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MAKE_PHONE_CALLS_TO_NUMBERS_WHEN_
 msgstr "Aplicaţia poate realiza apeluri telefonice în timpul introducerii numerelor, fără nicio confirmare ulterioară. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_MANAGE_YOUR_EMAIL_ACCOUNTS_INCLUDING_YOUR_FOLDERS_AND_EMAILS_POP3_AND_IMAP_DOWNLOADS_AND_SMTP_UPLOADS_MSG"
-msgstr "Aplicaţia poate gestiona conturile de email, inclusiv folderele şi emailurile, descărcările prin protocoalele POP3 and IMAP şi încărcările prin protocolul SMTP. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
+msgstr "Aplicaţia poate gestiona conturile de e-mail, inclusiv folderele şi e-mailurile, descărcările prin protocoalele POP3 and IMAP şi încărcările prin protocolul SMTP. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RECEIVE_NOTIFICATIONS_VIA_THE_INTERNET_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
 msgstr "Aplicaţia poate primi notificări prin internet. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
@@ -755,11 +755,53 @@ msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_SYNC_DEVICE_DATA_SUCH_AS_CONTACTS
 msgstr "Aplicaţia poate sincroniza datele dispozitivului, cum ar fi contactele şi evenimentele din calendar, utilizând protocolul OMA DS 1.2. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RETRIEVE_EMAILS_TEXT_MESSAGES_AND_MULTIMEDIA_MESSAGES_FROM_THE_SERVER_OR_RECEIVE_THEM_DIRECTLY_MSG"
-msgstr "Aplicaţia poate să preia emailuri, mesaje text şi mesaje multimedia de pe server sau să le primească direct. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
+msgstr "Aplicaţia poate să preia e-mailuri, mesaje text şi mesaje multimedia de pe server sau să le primească direct. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_WRITE_TEXT_MESSAGES_MULTIMEDIA_MESSAGES_AND_EMAILS_THIS_MAY_RESULT_IN_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN"
-msgstr "Aplicaţia poate scrie mesaje text, mesaje multimedia şi emailuri. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
+msgstr "Aplicaţia poate scrie mesaje text, mesaje multimedia şi e-mailuri. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Aplicaţia poate restricţiona dispozitivul, astfel încât anumite domenii să poată fi accesate doar prin intermediul reţelelor mobile. Acest lucru poate genera costuri suplimentare, în funcţie de planul tarifar."
+
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Notificări"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Nu deranjaţi"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Controlul nivelului volumului şi redarea bipurilor audio"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Această aplicaţie poate să modifice volumul, să activeze şi să dezactiveze Modul Silenţios, să detecteze schimbările volumului şi se redea bipuri."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Controlul canalului TV, citirea informaţiilor despre canalul şi programul TV"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Această aplicaţie poate schimba canalul TV, poate citi informaţii despre canalele şi programele TV şi poate primi notificări atunci când canalul TV a fost schimbat."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Verificarea faptului că un dispozitiv acceptă modul 3D şi obţinerea informaţiilor despre efectele acestuia"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Această aplicaţie poate verifica faptul că un dispozitiv acceptă modul 3D şi poate citi informaţii despre acesta."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Capturarea evenimentelor legate de tastele dispozitivelor de intrare, de exemplu, telecomanda TV"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Această aplicaţie poate captura evenimentele legate de tastele unui dispozitiv de intrare, de exemplu, telecomanda TV, şi poate elibera tastele selectate."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Afişarea sursei video integrate în această aplicaţie"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Această aplicaţie poate integra afişarea unei surse video, poate specifica dimensiunea şi poate afişa sau ascunde afişajul integrat."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Aplicaţia poate citi acţiuni care implică taste speciale, cum ar fi tastele de volum de pe acest dispozitiv sau altul (de ex., telecomenzi de televizoare), chiar atunci când rulează în fundal."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Capturarea evenimentelor speciale"
 

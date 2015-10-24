@@ -763,3 +763,45 @@ msgstr "ამ აპლიკაციას შეუძლია, დაწ�
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "ამ აპლიკაციას შეუძლია, მოწყობილობას შეუზღუდოს წვდომა ისე, რომ მხოლოდ რამდენიმე კონკრეტულ დომენზე იყოს შესაძლებელი წვდომა მობილური ქსელებით. შესაძლოა, ამის გამო დაგერიცხოთ დამატებითი გადასახადები, თქვენი სატარიფო გეგმის მიხედვით."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "შეტყობინებები"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "არ შემაწუხოთ"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "ხმის სიმაღლის კონტროლი და აუდიოსიგნალის დაკვრა"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "ამ აპლიკაციას შეუძლია, შეცვალოს ხმის სიმაღლე, ჩართოს და გამორთოს უხმო რეჟიმი, ამოიცნოს ხმის სიმაღლის ცვლილება და ჩართოს ხმოვანი სიგნალი."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "სატელევიზიო არხის მართვა, სატელევიზიო არხის წაკითხვა და პროგრამის ინფორმაცია"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "ამ აპლიკაციას შეუძლია, შეცვალოს ტელეარხი, წაიკითხოს ინფორმაცია სატელევიზიო არხებისა და პროგრამების შესახებ და მიიღოს შეტყობინებები, როდესაც ტელეარხი შეიცვლება."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "მოწყობილობაში 3D-ის მხარდაჭერის შემოწმება და ინფორმაციის მიღება 3D რეჟიმის ეფექტების შესახებ"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "ამ აპლიკაციას შეუძლია მოწყობილობაში 3D-ის მხარდაჭერის შემოწმება და ინფორმაციის წაკითხვა 3D რეჟიმის შესახებ."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "ინფორმაციის შემყვანი მოწყობილობის, მაგ. ტელევიზორის პულტის, ძირითადი მოქმედებების გადაღება"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "ამ აპლიკაციას შეუძლია, გადაიღოს ინფორმაციის შემყვანი მოწყობილობის, მაგ. ტელევიზორის პულტის, ძირითადი მოქმედებები და აუშვას ღილაკი."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "ამ აპლიკაციაში ჩაშენებული ვიდეოს წყაროს გამოჩენა"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "ამ აპლიკაციას შეუძლია, ჩააშენოს ვიდეოს წყაროს ეკრანი, მიუთითოს ზომა, გამოაჩინოს ან დამალოს ჩაშენებული ეკრანი."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "ამ აპლიკაციას შეუძლია, წაიკითხოს მოქმედებები სპეციალური ღილაკების გამოყენებით, როგორიცაა ხმის რეგულირების ღილაკები, ამ და სხვა მოწყობილობებში (მაგ., ტელევიზორის პულტი), მაშინაც კი, როცა ის გაშვებულია ფონზე."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "სპეციალური მთავარი მოვლენების გადაღება"
+

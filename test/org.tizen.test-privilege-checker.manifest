@@ -1,0 +1,9 @@
+<manifest>
+    <define>
+        <domain name="org.tizen.test-privilege-checker"/>
+    </define>
+    <assign>
+        <filesystem path="/usr/share/packages/org.tizen.test-privilege-checker.xml" label="_"/>
+    </assign>
+</manifest>
+

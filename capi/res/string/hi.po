@@ -743,7 +743,7 @@ msgid "IDS_TPLATFORM_HEADER_USING_MAP_SERVICES"
 msgstr "मानचित्र सेवाओं का उपयोग करना"
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_USE_MAP_SERVICES_SUCH_AS_GEOCODER_PLACES_AND_ROUTE_HDIRECTION"
-msgstr "यह एप्लीकेशन जिओकोडर, प्लेसेस और रूट (दिशा) जैसी मानचित्र सेवाओं का उपयोग कर सकती है।"
+msgstr "यह एप्लीकेशन जिओकोडर, स्थान और रूट (दिशा) जैसी मानचित्र सेवाओं का उपयोग कर सकती है।"
 
 msgid "IDS_TPLATFORM_HEADER_SHOWING_TOOLBAR"
 msgstr "टूलबार दिखाना"
@@ -762,4 +762,46 @@ msgstr "यह एप्लीकेशन टेक्स्ट सन्दे
 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "यह एप्लीकेशन डिवाइस को प्रतिबंधित कर सकती है, जिससे कुछ विशिष्ट डोमेन्स केवल मोबाइल नेटवर्क्स के माध्यम से एक्सेस किए जा सकते हैं। इसके परिणाम स्वरूप आपकी भुगतान योजना के आधार पर अतिरिक्त शुल्क लग सकते हैं।"
+
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "अधिसूचनाएँ"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "परेशान न करें"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "वॉल्यूम स्तर नियंत्रित करना और बीप ऑडियो चलाना"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "यह एप्लीकेशन वॉल्यूम बदल सकती है, शांत मोड को सक्षम और अक्षम कर सकती है, वॉल्यूम परिवर्तनों का पता लगा सकती है और बीप चला सकती है।"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "टीवी चैनल नियंत्रित करना और टीवी चैनल तथा प्रोग्राम जानकारी पढ़ना"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "यह एप्लीकेशन टीवी चैनल को बदल सकती है, टीवी चैनल्स और प्रोग्राम्स के बारे में जानकारी पढ़ सकती है और टीवी चैनल बदल दिए जाने पर अधिसूचनाएँ प्राप्त कर सकती है।"
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "यह जांचना कि क्या डिवाइस 3D का समर्थन करता है और 3D मोड के प्रभावों के बारे में जानकारी प्राप्त करना"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "यह एप्लीकेशन जांच कर सकती है कि कोई डिवाइस 3D का समर्थन करता है या नहीं और 3D मोड के बारे में जानकारी पढ़ सकती है।"
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "इनपुट डिवाइसेस जैसे कि टीवी रिमोट कंट्रोल के प्रमुख प्रसंग कैप्चर करना"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "यह एप्लीकेशन किसी इनपुट डिवाइस जैसे कि टीवी रिमोट कंट्रोल के प्रमुख प्रसंगों को कैप्चर कर सकती है और कुंजी ग्रैबिंग रिलीज कर सकती है।"
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "इस एप्लीकेशन में एम्बेडेड वीडियो स्रोत प्रदर्शित करना"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "यह एप्लीकेशन वीडियो स्रोत के प्रदर्शन को एम्बेड कर सकती है, आकार निर्दिष्ट कर सकती है और एम्बेडेड प्रदर्शन को दिखा या छिपा सकती है।"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "यह एप्लीकेशन बैकग्राउंड में चलने पर भी इस या अन्य डिवाइसेस (जैसे कि टीवी रिमोट कंट्रोल्स) पर वॉल्यूम कुंजियों जैसी विशेष कुंजियों को शामिल करने वाली कार्यवाही को पढ़ सकती है।"
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "विशेष कुंजी प्रसंगों को कैप्चर करना"
 

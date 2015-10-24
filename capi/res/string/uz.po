@@ -763,3 +763,45 @@ msgstr "Ushbu ilova matnli, multimedia va e-pochta xabarlarini yozishi mumkin. B
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Ushbu ilova qurilma funksiyalari cheklashi mumkin va ba’zi domenlarga faqat mobil tarmoqlar orqali kirilishi mumkin. Bu tarif rejangiz asosida qo‘shimcha to‘lovlarga olib kelishi mumkin."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Bildirishnomalar"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Bezovta qilma"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Ovoz balandligi darajasini boshqarish va signal audiosini ijro etish"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Ushbu ilova ovoz balandligini o‘zgartirishi, Ovozsiz rejimni yoqishi yoki o‘chirishi, ovozdagi o‘zgarishlarni aniqlashi va signallarni chalishi mumkin."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "TV kanalini boshqarish va TV kanalini va dasturlari ma’lumotini o‘qish"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Ushbu ilova TV kanalini o‘zgartirishi, TV kanallari va dasturlari haqidagi ma’lumotni o‘zgartirishi va TV kanali o‘zgargan vaqtda bildirishnomalarni olishi mumkin."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Qurilmangiz 3D rejimni qo‘llab-quvvatlashini tekshirish va 3D rejimining effektlari haqida ma’lumot olish"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Ushbu ilova qurilma 3D rejimni qo‘llab-quvvatlashini tekshiradi va 3D rejim haqidagi ma’lumotlarni o‘qiydi."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Kiritish qurilmlarining tugma hodisalarini rasmga olish, misol uchun, TV pulti"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Ushbu ilova kiritish qurilmasining tugma hodisalarini rasmga olishi mumkin, misol uchun, TV pulti va chiqarish tugmasini ushlab olish."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Ushbu ilovalarda biriktirilgan video manbaini ko‘rsatilishi"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Ushbu ilova video manba ekanini bog‘lashi, uning o‘lchamini o‘zgartirishi va bog‘langan ekranni ko‘rsatishi yoki yashirishi mumkin."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Ushbu ilova bu yoki boshqa qurilmalarda (misol uchun, TV pultida) ovoz balandligi kabi maxsus tugmalar funksiyasini o‘qishi mumkin, u fonda ishlayotganda ham."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Maxsus tugma hodisalarini rasmga olish"
+

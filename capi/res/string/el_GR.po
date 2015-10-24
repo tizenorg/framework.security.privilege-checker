@@ -763,3 +763,45 @@ msgstr "Αυτή η εφαρμογή μπορεί να συνθέτει μηνύ
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Αυτή η εφαρμογή μπορεί να περιορίσει τη συσκευή ώστε η πρόσβαση σε ορισμένους τομείς να είναι δυνατή μόνο μέσω δικτύων κινητής τηλεφωνίας. Η ενέργεια ενδέχεται να επιφέρει πρόσθετες χρεώσεις, ανάλογα με το πρόγραμμα πληρωμής."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Ειδοποιήσεις"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Μην ενοχλείτε"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Έλεγχος του επιπέδου έντασης και αναπαραγωγή του χαρακτηριστικού ήχου"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Αυτή η εφαρμογή μπορεί να αλλάξει την ένταση του ήχου, να ενεργοποιήσει και να απενεργοποιήσει την αθόρυβη λειτουργία, να εντοπίσει αλλαγές στην ένταση και να αναπαράγει ήχους."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Έλεγχος του καναλιού τηλεόρασης και ανάγνωση πληροφοριών για κανάλια και προγράμματα τηλεόρασης"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Αυτή η εφαρμογή μπορεί να αλλάζει το κανάλι της τηλεόρασης, να διαβάζει πληροφορίες σχετικά με τα κανάλια και τα προγράμματα της τηλεόρασης και να λαμβάνει ειδοποιήσεις κατά την αλλαγή του καναλιού της τηλεόρασης."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Έλεγχος μιας συσκευής για υποστήριξη 3D και λήψη πληροφοριών σχετικά με τα εφέ της λειτουργίας 3D"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Αυτή η εφαρμογή μπορεί να ελέγχει αν μια συσκευή υποστηρίζει 3D και να διαβάζει πληροφορίες σχετικά με τη λειτουργία 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Λήψη συμβάντων πλήκτρων από συσκευές εισόδου, π.χ. τηλεχειριστήριο τηλεόρασης"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Αυτή η εφαρμογή μπορεί να λάβει τα συμβάντα πλήκτρων μιας συσκευής εισόδου, π.χ. ενός τηλεχειριστηρίου τηλεόρασης και να αποδεσμεύσει το κράτημα πλήκτρων."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Προβολή της πηγής βίντεο που είναι ενσωματωμένη σε αυτήν την εφαρμογή"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Αυτή η εφαρμογή μπορεί να ενσωματώσει την προβολή μιας πηγής βίντεο, να προσδιορίσει το μέγεθος και να εμφανίσει ή να αποκρύψει την ενσωματωμένη προβολή."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Αυτή η εφαρμογή μπορεί να αναγνωρίσει ενέργειες που σχετίζονται με ειδικά πλήκτρα, όπως τα πλήκτρα έντασης ήχου σε αυτήν ή σε άλλες συσκευές (π.χ. σε τηλεχειριστήρια τηλεόρασης) ακόμα και όταν εκτελείται στο παρασκήνιο."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Καταγραφή συμβάντων ειδικού κλειδιού"
+

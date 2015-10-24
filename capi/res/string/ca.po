@@ -763,3 +763,45 @@ msgstr "Aquesta aplicació pot escriure missatges de text, missatges multimèdia
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Aquesta aplicació pot restringir el dispositiu perquè només es pugui accedir a dominis específics mitjançant xarxes mòbils. Això pot comportar càrrecs addicionals en funció del seu pla de pagament."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Notificacions"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "No molestar"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Controlar el nivell de volum i reproduir l'àudio bip"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Aquesta aplicació pot canviar el volum, activar i desactivar el mode Silenci, detectar canvis de volum i reproduir bips."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Controlar canal de TV, llegir canal de TV, i informació de programa"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Aquesta aplicació pot canviar el canal de TV, llegir informació sobre programes i canals de TV i rebre notificacions quan s'hagi canviat el canal de TV."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Comprovació de la compatibilitat del 3D en un dispositiu i informació sobre els efectes del mode 3D"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Aquesta aplicació pot comprovar la compatibilitat del 3D en un dispositiu i llegir informació sobre els efectes del mode 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Captura d'esdeveniments de tecles de dispositius d'entrada, p. ex., comandament a distància TV"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Aquesta aplicació pot capturar esdeveniments de teclat d'un dispositiu d'entrada, p. ex., el comandament a distància de la TV i obtenir tecles d'alliberament."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Visualització de la font de vídeo incrustada en aquesta aplicació"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Aquesta aplicació pot incrustar la pantalla d'una font de vídeo, especificar la mida i mostrar o ocultar la pantalla incrustada."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Aquesta aplicació pot llegir accions que impliquin tecles especials, com les tecles de volum o altres dispositius (p. ex. controls remots TV), fins i tot quan s'està executant en el fons."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Captura d'esdeveniments de tecles especials"
+

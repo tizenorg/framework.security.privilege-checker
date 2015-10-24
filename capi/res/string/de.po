@@ -763,3 +763,45 @@ msgstr "Diese Anwendung kann Text- und Multimedianachrichten sowie E-Mails schre
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Diese Anwendung kann das Gerät so begrenzen, dass auf bestimmte Domänen nur über mobile Netzwerke zugegriffen werden kann. Dies kann je nach Tarif zusätzliche Kosten verursachen."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Benachrichtigungen"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Nicht stören"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Steuern des Lautstärkepegels und Wiedergabe des Signaltons"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Diese Anwendung kann die Lautstärke ändern, den Stumm-Modus aktivieren und deaktivieren, Lautstärkeänderungen erkennen und Signaltöne wiedergeben."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Steuern des TV-Kanals und Lesen der TV-Kanal- und Programminformationen"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Diese Anwendung kann den TV-Kanal wechseln, Informationen über TV-Kanäle und -Programme lesen und Benachrichtigungen empfangen, wenn der TV-Kanal gewechselt wurde."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Prüfen, ob ein Gerät 3D unterstützt und Abrufen von Informationen über Effekte des 3D-Modus"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Diese Anwendung kann prüfen, ob ein Gerät 3D unterstützt und Informationen über Effekte des 3D-Modus lesen."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Erfassen von Tastenereignissen von Eingabegeräten, wie z. B. von der TV-Fernbedienung"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Diese Anwendung kann Tastenereignisse von Eingabegeräten, wie z. B. von der TV-Fernbedienung, erfassen und auf dem Mobiltelefon verwenden."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Anzeigen der in dieser Anwendung eingebetteten Videoquelle"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Diese Anwendung kann die Anzeige einer Videoquelle einbetten, die Größe angeben und die eingebettete Anzeige ein- oder ausblenden."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Diese Anwendung kann Aktionen im Zusammenhang mit speziellen Tasten wie den Lautstärketasten an diesem oder anderen Geräten (z. B. TV-Fernbedienungen) auch dann lesen, wenn sie im Hintergrund ausgeführt werden."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Aufnehmen besonderer Ereignisse"
+

@@ -763,3 +763,45 @@ msgstr "Апликацијава може да пишува текстуални
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Апликацијава може да го ограничи уредот, па до некои специфични домени ќе може да се пристапи само преку мобилни мрежи. Ова може да се наплаќа дополнително, зависно од Вашата претплата."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Известувања"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Не вознемирувај"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Се контролира нивото на јачина на звукот и емитувањето на звукот бип"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Апликацијава може да ја менува гласноста, да вклучува и исклучува Тивок режим, да открива промени на гласноста и да емитува сигнали."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Се контролира ТВ-каналот и читањето на информации за ТВ-каналот и програмата"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Апликацијава може да промени ТВ-канал, да чита информации за ТВ-канали и програми и да прима известувања кога е променет ТВ-канал."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Проверување дали уредот поддржува 3D и собирање информации за ефектите на режимот 3D"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Апликацијава може да провери дали уредот поддржува 3D и чита информации за режимот 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Снимање клучни настани од влезни уреди, на пр. далечинско за ТВ"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Апликацијава може да ги сними клучните настани од влезниот уред, на пр. далечинско за ТВ, и да го отпушти фаќањето копчиња."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Се прикажува изворот на видео вграден во апликацијава"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Апликацијава може да вгради екран од извор на видео, да одреди големина и да го прикаже или сокрие вградениот екран."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Апликацијава може да чита дејства што ги опфаќаат посебните копчиња, како што се копчињата за гласност на овој и на други уреди (пр. далечинскиот управувач на телевизорот), дури и кога работи во заднина."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Снимање настани со посебно копче"
+

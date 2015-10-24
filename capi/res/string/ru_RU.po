@@ -763,3 +763,45 @@ msgstr "Это приложение может писать текстовые, 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Это приложение может запретить устройству доступ к некоторым доменам, кроме как посредством мобильной сети. За это может взиматься дополнительная плата (в зависимости от вашего тарифного плана)."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Уведомления"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Не беспокоить"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Управление уровнем громкости и воспроизведение звукового сигнала"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "С помощью этого приложения вы можете изменять уровень громкости, включать и отключать режим “Без звука”, определять изменение уровня громкости и проигрывать звуковые сигналы."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Управление ТВ-каналом и чтение информации о ТВ-канале и программе"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Это приложение может менять ТВ-канал, считывать информацию о ТВ-каналах и программах, а также получать уведомление о том, когда ТВ-канал был изменен."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Проверка поддержки устройством 3D и получение информации об эффектах 3D-режима"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Это приложение может проверять поддержку устройства 3D, а также считывать информацию о 3D-режиме."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Захват ключевых событий устройств ввода, например, пульта дистанционного управления ТВ"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Это приложение может снимать ключевые события устройства ввода, например, пульта дистанционного управления ТВ, а также убирать захват клавиш."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Отображение источника видео, встроенного в это приложение"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Это приложение может встраивать отображение источника видео, определять размер, а также показывать или скрывать встроенное отображение."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Данное приложение может считывать действия с участием специальных клавиш, таких как клавиши регулировки громкости на этом или других устройствах (например, на пульте дистанционного управления телевизора), даже при работе в фоновом режиме."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Съемка особых ключевых событий"
+

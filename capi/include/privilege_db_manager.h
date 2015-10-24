@@ -55,7 +55,8 @@ typedef enum
 typedef enum
 {
     PRIVILEGE_DB_MANAGER_PACKAGE_TYPE_WRT          =   0,
-    PRIVILEGE_DB_MANAGER_PACKAGE_TYPE_CORE         =   1
+    PRIVILEGE_DB_MANAGER_PACKAGE_TYPE_CORE         =   1,
+	PRIVILEGE_DB_MANAGER_PACKAGE_TYPE_OSP			=	2
 } privilege_db_manager_package_type_e;
 
 #ifdef __cplusplus
@@ -67,6 +68,11 @@ int privilege_db_manager_get_privilege_list(const char* api_version, privilege_d
 int privilege_db_manager_get_privilege_display(privilege_db_manager_package_type_e package_type, const char* privilege_name, const char* api_version, char** privilege_display);
 
 int privilege_db_manager_get_privilege_description(privilege_db_manager_package_type_e package_type, const char* privilege_name, const char* api_version, char** privilege_description);
+
+int privilege_db_manager_get_privilege_display_by_name(privilege_db_manager_package_type_e package_type, const char* privilege_name, char** privilege_display);
+
+int privilege_db_manager_get_privilege_description_by_name(privilege_db_manager_package_type_e package_type, const char* privilege_name, char** privilege_description);
+
 
 int privilege_db_manager_get_privilege_group_display(privilege_db_manager_package_type_e package_type, const char* privilege_name, const char* api_version, int* privilege_group_number);
 

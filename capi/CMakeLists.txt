@@ -9,13 +9,13 @@ SET(PREFIX ${CMAKE_INSTALL_PREFIX})
 SET(INC_DIR include)
 
 INCLUDE_DIRECTORIES(
-    "${INC_DIR}" 
+    "${INC_DIR}"
     )
     
-SET(pc_requires "capi-base-common cert-svc glib-2.0")
+SET(pc_requires "capi-base-common cert-svc libsmack")
 
 INCLUDE(FindPkgConfig)
-pkg_check_modules(${fw_name} REQUIRED capi-base-common dlog vconf pkgmgr-info capi-appfw-package-manager glib-2.0)
+pkg_check_modules(${fw_name} REQUIRED capi-base-common dlog pkgmgr-info glib-2.0 libsmack)
 FOREACH(flag ${${fw_name}_CFLAGS})
     SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} ${flag}")
 ENDFOREACH(flag)
@@ -32,8 +32,10 @@ ADD_DEFINITIONS("-DSLP_DEBUG")
 MESSAGE("PROFILE_TYPE = ${PROFILE_TYPE}")
 IF("${PROFILE_TYPE}" STREQUAL "WEARABLE")
     ADD_DEFINITIONS("-DPROFILE_TYPE_WEARABLE")
-ELSE()
+ELSEIF("${PROFILE_TYPE}" STREQUAL "MOBILE")
     ADD_DEFINITIONS("-DPROFILE_TYPE_MOBILE")
+ELSEIF("${PROFILE_TYPE}" STREQUAL "TV")
+    ADD_DEFINITIONS("-DPROFILE_TYPE_TV")
 ENDIF()
 
 SET(CMAKE_EXE_LINKER_FLAGS "-Wl,--as-needed -Wl,--rpath=/usr/lib")
@@ -43,10 +45,10 @@ ADD_LIBRARY(${fw_name} SHARED ${SOURCES})
 
 TARGET_LINK_LIBRARIES(${fw_name} ${${fw_name}_LDFLAGS})
 
-SET_TARGET_PROPERTIES(${fw_name} 
-    PROPERTIES 
-    SOVERSION ${API_VERSION} 
-    VERSION ${VERSION} 
+SET_TARGET_PROPERTIES(${fw_name}
+    PROPERTIES
+    SOVERSION ${API_VERSION}
+    VERSION ${VERSION}
     CLEAN_DIRECT_OUTPUT 1
 )
 
@@ -125,5 +127,4 @@ ENDFOREACH(_file ${_pofiles})
 ADD_CUSTOM_TARGET(privilege-string ALL DEPENDS ${mo_files})
 
 INSTALL(DIRECTORY ${CMAKE_SOURCE_DIR}/cmake_build_tmp/output/target/generic/root/usr/share/locale DESTINATION ../share)
-
 

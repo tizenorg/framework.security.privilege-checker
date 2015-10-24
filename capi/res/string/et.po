@@ -763,3 +763,45 @@ msgstr "See rakendus saab kirjutada tekstsõnumeid, multimeediumsõnumeid ja e-k
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "See rakendus saab piirata seadet, nii et teatud kindlatele domeenidele pääseb ligi ainult mobiilsidevõrkude kaudu. Sõltuvalt teie paketist võivad rakenduda lisatasud."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Teavitused"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Mitte segada"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Helitugevuse taseme juhtimine ja piiksuheli esitamine"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "See rakendus saab muuta helitugevust, aktiveerida ja desaktiveerida vaikse režiimi, tuvastada helitugevuse muudatusi ja teha piikse."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Telekanali juhtimine ning telekanali ja saateteabe lugemine"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "See rakendus saab muuta telekanalit, lugeda teavet telekanalite ja saadete kohta ning võtta vastu teavitusi, kui telekanalit on muudetud."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Kontrollimine, kas seade toetab 3D-d, ja teabe hankimine 3D-režiimi efektide kohta"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "See rakendus saab kontrollida, kas seade toetab 3D-d, ja lugeda teavet 3D-režiimi kohta."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Sisendseadmete (nt teleri kaugjuhtimispuldi) põhisündmuste jäädvustamine"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "See rakendus saab jäädvustada sisendseadme (nt teleri kaugjuhtimispuldi) põhisündmused ja vabastada klahvihõive."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Sellele rakendusele lisatud videoallika kuvamine"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "See rakendus saab manustada videoallika kuva, määrata suuruse ning kuvada või peita manustatud kuva."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "See rakendus suudab lugeda toiminguid, mis on seotud eriklahvidega, nt helitugevusnupud selles või teises seadmes (nt teleri kaugjuhtimispult), isegi taustal töötades."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Eriliste võtmesündmuste jäädvustamine"
+

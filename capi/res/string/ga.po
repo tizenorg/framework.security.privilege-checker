@@ -763,3 +763,45 @@ msgstr "Is féidir leis an bhfeidhmchlár seo teachtaireachtaí téacs, teachtai
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Is féidir leis an bhfeidhmchlár seo srian a chur leis an ngléas ionas nach bhféadfar roinnt fearann ar leith a rochtain ach amháin trí líonraí móibíleacha. Is féidir go ngearrfar táillí breise air seo ag brath ar do phlean íocaíochta."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Fógraí"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Ná cuir isteach orm"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "An leibhéal airde a rialú agus fuaim na bípe a sheinm"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Is féidir leis an bhfeidhmchlár seo an airde a athrú, Mód tostach a chumasú agus a dhíchumasú, athruithe airde a bhrath, agus bípeanna a sheinm."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "An cainéal teilifíse a rialú agus faisnéis faoin gcainéal teilifíse agus faoi chláir a léamh"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Is féidir leis an bhfeidhmchlár seo an cainéal teilifíse a athrú, faisnéis faoi chainéil agus faoi chláir teilifíse a léamh, agus fógraí a fháil nuair a athraítear an chainéil teilifíse."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Seiceáil cibé acu atá nó nach bhfuil tacú i ngléas don 3D agus faisnéis a fháil faoi mhaisíochtaí an mhóid 3d"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Is féidir leis an bhfeidhmchlár seo seiceáil cibé acu atá nó nach bhfuil tacú i ngléas don 3D agus faisnéis a léamh faoin mód 3D."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Imeachtaí eochrach gléasanna ionchuir a ghabháil, m.sh. cianrialtán teilifíse"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Is féidir leis an bhfeidhmchlár seo imeachtaí eochrach gléasanna ionchuir a ghabháil, m.sh. cianrialtán teilifíse, chomh maith le scaoileadh eochracha."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Foinse físe atá leabaithe san fheidhmchlár seo a thaispeáint"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Is féidir leis an bhfeidhmchlár seo taispeáint na foinse físe a leabú, an mhéid a shonrú, agus an taispeáint leabaithe a thaispeáint nó a fholú."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Is féidir leis an bhfeidhmchlár seo gníomhartha a léamh a bhfuil baint acu le heochracha speisialta, amhail na heochracha airde ar an ngléas seo agus ar ghléasanna eile (m.sh. cianrialtáin teilifíse), fiú nuair a bhíonn sé ar rith sa chúlra."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Imeachtaí eochrach speisialta a ghabháil"
+

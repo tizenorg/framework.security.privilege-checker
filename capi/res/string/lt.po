@@ -763,3 +763,45 @@ msgstr "Ši programa gali rašyti teksto, multimedijos žinutes ir el. laiškus.
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Ši programa gali apriboti įrenginį, kad naudojant mobiliuosius tinklus būtų pasiekiami tik nurodyti domenai. Atsižvelgiant į turimą mokėjimo planą, gali būti taikomi papildomi mokesčiai."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Pranešimai"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Netrukdyti"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Valdomas garsumo lygis ir leidžiamas signalo garsas"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Ši programa gali keisti garsumą, įjungti ir išjungti tylųjį režimą, aptikti garsumo pokyčius ir leisti pyptelėjimus."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "Valdomas TV kanalas ir nuskaitoma TV kanalo ir programos informacija"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Ši programa gali perjungti televizoriaus kanalą, nuskaityti informacija apie TV kanalus ir programas bei gauti pranešimus, kai TV kanalas perjungiamas."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Tikrinama, ar įrenginys palaiko 3D, ir gaunama informacija apie 3D režimo efektus"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Ši programa, gali patikrinti, ar įrenginys palaiko 3D ir nuskaityti informaciją apie 3D režimą."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "Užfiksuojami įvesties įrenginių, pvz., televizoriaus nuotolinio valdymo pulto, mygtukų paspaudimai"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Ši programa gali užfiksuoti įvesties įrenginio, pvz., televizoriaus nuotolinio valdymo pulto, mygtukų paspaudimus ir atleidimus."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Rodomas vaizdo įrašo šaltinis, įdėtas šioje programoje"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Ši programa gali įdėti vaizdo įrašo šaltinio rodinį, nurodyti dydį ir parodyti ar paslėpti įdėtąjį rodinį."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Net veikdama fone ši programa gali nuskaityti su konkrečiais veiksmais susijusius mygtukus, pvz., šio ar kitų įrenginių garsumo mygtukus (pvz., televizoriaus nuotolinio valdymo pulto)."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Konkrečių mygtukų paspaudimų fiksavimas"
+

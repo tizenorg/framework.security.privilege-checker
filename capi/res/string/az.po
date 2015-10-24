@@ -763,3 +763,45 @@ msgstr "Bu proqram mətn, multimedia mesajları və e-poçtlar yaza bilər. Bu, 
 msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_RESTRICT_THE_DEVICE_SO_SOME_SPECIFIC_DOMAINS_CAN_ONLY_BE_ACCESSED_VIA_MOBILE_NETWORKS_MSG"
 msgstr "Bu proqram cihazı elə məhdudlaşdıra bilər ki, bəzi xüsusi domenlərə yalnız mobil şəbəkələr vasitəsilə çıxmaq mümkün ola bilər. Bu, ödəniş planınızdan asılı olaraq əlavə xərclərlə nəticələnə bilər."
 
+msgid "IDS_ST_HEADER_NOTIFICATIONS_ABB"
+msgstr "Bildirişlər"
+
+msgid "IDS_ST_HEADER_DO_NOT_DISTURB_ABB"
+msgstr "Narahat etmə"
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_VOLUME_LEVEL_AND_PLAYING_THE_BEEP_AUDIO"
+msgstr "Səs səviyyəsi idarə edilir və bip səsi səslənir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_VOLUME_MSG"
+msgstr "Bu proqram səsi dəyişə, Səssiz rejimi aktiv və ya qeyri-aktiv edə, səs dəyişikliklərini aşkarlaya və bip səsləndirə bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CONTROLLING_THE_TV_CHANNEL_MSG"
+msgstr "TV kanal idarə edilir və TV kanal və proqram məlumatı oxunur"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHANGE_THE_TV_CHANNEL_READ_INFORMATION_MSG"
+msgstr "Bu proqram TV kanalı dəyişə, TV kanallar və verilişlər barədə məlumatı oxuya və TV kanal dəyişən zaman bildirişlər ala bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CHECKING_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Cihazın 3D formatını dəstəkləməsi və 3D rejiminin effektləri barədə məlumatın əldə edilməsi yoxlanır"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CHECK_WHETHER_A_DEVICE_SUPPORTS_3D_MSG"
+msgstr "Bu proqram cihazın 3D formatını dəstəkləməsi və 3D rejimi barədə məlumatın oxunmasını yoxlaya bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_KEY_EVENTS_OF_INPUT_DEVICES_EG_TV_REMOTE_CONTROL"
+msgstr "TV pult kimi daxil etmə cihazlarının düymələri çəkilir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_CAPTURE_THE_KEY_EVENTS_OF_AN_INPUT_DEVICE_MSG"
+msgstr "Bu proqram TV pult daxil olmaqla düymələri çəkə və buraxa bilər."
+
+msgid "IDS_TPLATFORM_HEADER_DISPLAYING_VIDEO_SOURCE_EMBEDDED_IN_THIS_APPLICATION"
+msgstr "Bu proqrama bərkidilmiş video mənbə göstərilir"
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_EMBED_THE_DISPLAY_MSG"
+msgstr "Bu proqram video mənbənin displeyini saxlaya, ölçüsü göstərə və displeyi göstərə və ya gizlədə bilər."
+
+msgid "IDS_TPLATFORM_BODY_THIS_APPLICATION_CAN_READ_ACTIONS_INVOLVING_SPECIAL_KEYS_SUCH_AS_THE_VOLUME_KEYS_MSG"
+msgstr "Bu proqram hətta fonda işlədiyi zaman belə bu və ya digər cihazlarda səs düymələri (məsələn, pult) kimi xüsusi düymələri cəlb edən əməliyyatları oxuya bilər."
+
+msgid "IDS_TPLATFORM_HEADER_CAPTURING_SPECIAL_KEY_EVENTS"
+msgstr "Xüsusi əsas tədbirlərin çəkilməsi"
+
