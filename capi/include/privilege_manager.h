@@ -57,23 +57,21 @@ typedef enum
 } privilege_manager_error_e;
 
 /**
- * @brief verify privilege name and level in the privilege list.
+ * @brief verify privilege in the privilege list by checking its name and level at given api version.
  * @remarks @a privilege_list must be released with free() by you.
- * @remarks @a error_privilege_name must be released with free() by you.
+ * @remarks @a error_message must be released with free() by you.
+ * @param [in] api_version The api version of the application
  * @param [in] privilege_manager_package_type_e The privilege_manager_package_type_e
  * @param [in] privilege_list The privilege_list
  * @param [in] privilege_manager_visibility_e The privilege_manager_visibility_e
- * @param [out] error_privilege_name The error_privilege_name's value is assigned when PRVMGR_ERR_MISMACHED_PRIVILEGE_LEVEL and PRVMGR_ERR_NO_EXIST_PRIVILEGE are returned, otherwise null is assigned.
- * @return 0 on success, otherwise a negative error value.
+ * @param [out] error_message The error_message's value is assigned when the return value isn't PRVMGR_ERR_NONE, otherwise null is assigned.
+ * @return 0 on success, otherwise a nonzero error value.
  * @retval #PRVMGR_ERR_NONE Successful
- * @retval #PRVMGR_ERR_MISMACHED_PRIVILEGE_LEVEL privilege level is higher than visibility. Error_privilege_name'value is assigned.
- * @retval #PRVMGR_ERR_NO_EXIST_PRIVILEGE privilege don't exist. Error_privilege_name'value is assigned.
  * @retval #PRVMGR_ERR_OUT_OF_MEMORY Out of memory
+ * @retvak #PRVMGR_ERR_INVALID_PRIVILEGE The privilege_list contains invalid privilege(s).
  * @retval #PRVMGR_ERR_INVALID_PARAMETER Invalid parameter
  * @retval #PRVMGR_ERR_INTERNAL_ERROR Internal error
  */
-EXPORT_API int privilege_manager_verify_privilege_list(privilege_manager_package_type_e package_type, GList* privilege_list, privilege_manager_visibility_e visibility, char **error_privilege_name);
-
 EXPORT_API int privilege_manager_verify_privilege(const char* api_version, privilege_manager_package_type_e package_type, GList* privilege_list, privilege_manager_visibility_e visibility, char **error_message);
 
 #ifdef __cplusplus
