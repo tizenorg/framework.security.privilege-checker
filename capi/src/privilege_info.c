@@ -743,4 +743,34 @@ int privilege_info_get_privilege_description(const char *privilege, char **descr
 	return  PRVMGR_ERR_NONE;
 }
 
+int privilege_info_get_external_privilege_level(const char *privilege, char **privilege_level)
+{
+	int index = 0;
+	bool matchedFlag = false;
+	char* public_level = "public";
+	TryReturn(privilege != NULL, , PRVMGR_ERR_INVALID_PARAMETER, "[PRVMGR_ERR_INVALID_PARAMETER] privilege is NULL");
+
+	for (index = 0; index < EXTERNAL_PRIVILEGE_NUM; index++)
+	{
+		if (strcmp(external_privilege_info_table[index].privilege, privilege) == 0)
+		{
+			matchedFlag = true;
+			*privilege_level = (char*)calloc(strlen(external_privilege_info_table[index].privilege_level) + 1, sizeof(char));
+			TryReturn(*privilege_level != NULL, , PRVMGR_ERR_OUT_OF_MEMORY, "[PRVMGR_ERR_OUT_OF_MEMORY] Memory allocation failed.");
+
+			memcpy(*privilege_level, external_privilege_info_table[index].privilege_level, strlen(external_privilege_info_table[index].privilege_level));
+			break;
+		}
+	}
+
+	if (matchedFlag == false)
+	{
+		*privilege_level = (char*)calloc(strlen(public_level) + 1, sizeof(char));
+		TryReturn(*privilege_level != NULL, , PRVMGR_ERR_OUT_OF_MEMORY, "[PRVMGR_ERR_OUT_OF_MEMORY] Memory allocation failed.");
+
+		memcpy(*privilege_level, public_level, strlen(public_level));
+	}
+
+	return  PRVMGR_ERR_NONE;
+}
 

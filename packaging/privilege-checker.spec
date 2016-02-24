@@ -1,3 +1,5 @@
+%define core_privilege_checker security-privilege-checker
+
 Name:    privilege-checker
 Summary: Privilege Management
 Version: 0.0.4
@@ -10,32 +12,21 @@ BuildRequires: cmake
 %description
 Privilege Management
 
-%package -n privilege-checker-devel
-summary: privilege-checker server
-Group: Development/Libraries
-Requires: privilege-checker = %{version}-%{release}
-%description -n privilege-checker-devel
-privilege-checker devel
-
-
-%package  -n security-privilege-checker
-Summary:  Privilege Checker API(Core)
-Group:    TO_BE/FILLED_IN
-BuildRequires:	pkgconfig(libsmack)
-%if "%{?tizen_profile_name}" != "tv"
-BuildRequires:	pkgconfig(privacy-manager-client)
-%endif
-
-%description -n security-privilege-checker
-The Privilege Checker API provides functions to check given privilege is declared current application or not.
-
-%package  -n security-privilege-checker-devel
+%package  -n %{core_privilege_checker}-devel
 Summary:  Privilege Checker API(Core)
 Group:    TO_BE/FILLED_IN
 BuildRequires: pkgconfig(libsmack)
 
-%description -n security-privilege-checker-devel
+%description -n %{core_privilege_checker}-devel
 The Privilege Checker API provides functions to check given privilege is declared current application or not.
+
+%package -n privilege-checker-devel
+summary: privilege-checker server
+Group: Development/Libraries
+Requires: privilege-checker = %{version}-%{release}
+
+%description -n privilege-checker-devel
+privilege-checker devel
 
 %package -n capi-security-privilege-manager
 Summary:    Privilege Manager API
@@ -49,6 +40,7 @@ BuildRequires:  pkgconfig(pkgmgr-info)
 BuildRequires:  pkgconfig(cert-svc)
 BuildRequires:  pkgconfig(sqlite3)
 BuildRequires:  pkgconfig(glib-2.0)
+BuildRequires:  pkgconfig(libsmack)
 
 %description -n capi-security-privilege-manager
 The Privilege Manager API provides functions to get information about privilege information of installed packages.
@@ -132,14 +124,10 @@ sqlite3 /%{buildroot}/usr/share/privilege-manager/.wrt_privilege_info.db "select
 /usr/share/license/privilege-checker
 %manifest packaging/privilege-checker.manifest
 
-%files -n security-privilege-checker
-%{_libdir}/libsecurity-privilege-checker.so*
-%manifest packaging/security-privilege-checker.manifest
-
-%files -n security-privilege-checker-devel
+%files -n %{core_privilege_checker}-devel
 %{_includedir}/privilege_checker.h
-%{_libdir}/pkgconfig/security-privilege-checker.pc
-%{_libdir}/libsecurity-privilege-checker.so
+%{_includedir}/privilege_checker_extension.h
+%{_libdir}/pkgconfig/%{core_privilege_checker}.pc
 
 %files -n capi-security-privilege-manager
 %{_libdir}/libcapi-security-privilege-manager.so*
@@ -160,7 +148,9 @@ sqlite3 /%{buildroot}/usr/share/privilege-manager/.wrt_privilege_info.db "select
 /usr/share/packages/org.tizen.test-privilege-checker.xml
 %{_bindir}/tc-privilege-db-manager
 %{_bindir}/tc-privilege-manager
+#%{_bindir}/tc-privilege-checker
 %{_bindir}/tc-privilege-info
+%{_libdir}/lib%{core_privilege_checker}.so*
 
 %clean
 rm -rf %{buildroot}

@@ -35,7 +35,7 @@ ADD_EXECUTABLE(${TC4_NAME} ${TC4_SRCS})
 
 TARGET_LINK_LIBRARIES(${TC1_NAME} "capi-security-privilege-manager")
 TARGET_LINK_LIBRARIES(${TC2_NAME} "capi-security-privilege-manager")
-TARGET_LINK_LIBRARIES(${TC3_NAME} "security-privilege-checker")
+TARGET_LINK_LIBRARIES(${TC3_NAME} "capi-security-privilege-manager")
 TARGET_LINK_LIBRARIES(${TC4_NAME} "capi-security-privilege-manager")
 
 INSTALL(TARGETS ${TC1_NAME} DESTINATION /usr/bin)

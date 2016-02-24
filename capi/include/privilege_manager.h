@@ -65,7 +65,7 @@ typedef enum
  * @param [in] privilege_list The privilege_list
  * @param [in] privilege_manager_visibility_e The privilege_manager_visibility_e
  * @param [out] error_message The error_message's value is assigned when the return value isn't PRVMGR_ERR_NONE, otherwise null is assigned.
- * @return 0 on success, otherwise a nonzero error value.
+ * @return 0 on success, otherwise a negative error value.
  * @retval #PRVMGR_ERR_NONE Successful
  * @retval #PRVMGR_ERR_OUT_OF_MEMORY Out of memory
  * @retvak #PRVMGR_ERR_INVALID_PRIVILEGE The privilege_list contains invalid privilege(s).

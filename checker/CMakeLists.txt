@@ -5,20 +5,7 @@ SET(VERSION ${VERSION_MAJOR}.0.1)
 INCLUDE(FindPkgConfig)
 PROJECT(${fw_name})
 
-IF("${PROFILE_TYPE}" STREQUAL "WEARABLE")
-    ADD_DEFINITIONS("-DPROFILE_TYPE_WEARABLE")
-ELSEIF("${PROFILE_TYPE}" STREQUAL "MOBILE")
-    ADD_DEFINITIONS("-DPROFILE_TYPE_MOBILE")
-ELSEIF("${PROFILE_TYPE}" STREQUAL "TV")
-    ADD_DEFINITIONS("-DPROFILE_TYPE_TV")
-ENDIF()
-
-IF("${PROFILE_TYPE}" STREQUAL "TV")
-	pkg_check_modules(${fw_name} REQUIRED dlog libsmack capi-base-common)
-ELSE()
-	pkg_check_modules(${fw_name} REQUIRED dlog libsmack capi-base-common privacy-manager-client)
-ENDIF()
-
+pkg_check_modules(${fw_name} REQUIRED dlog libsmack capi-base-common)
 FOREACH(flag ${${fw_name}_CFLAGS})
     SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} ${flag}")
 ENDFOREACH(flag)
@@ -34,7 +21,7 @@ SET(${fw_name}_framework_src
 	src/test_framework.c
 )
 
-ADD_LIBRARY(${fw_name} SHARED src/privilege_checker.c)
+ADD_LIBRARY(${fw_name} SHARED src/test_framework.c)
 
 TARGET_LINK_LIBRARIES(${fw_name} ${${fw_name}_LDFLAGS})
 
@@ -46,18 +33,15 @@ SET_TARGET_PROPERTIES(${fw_name}
 )
 
 INSTALL(TARGETS ${fw_name} DESTINATION ../lib)
-IF("${PROFILE_TYPE}" STREQUAL "TV")
-	SET(pc_requires "libsmack")
-ELSE()
-	SET(pc_requires "libsmack privacy-manager-client")
-ENDIF()
+SET(pc_requires "libsmack")
 SET(PC_NAME ${fw_name})
 SET(PC_REQUIRED ${pc_requires})
-SET(PC_LDFLAGS "-l${fw_name}")
+SET(PC_LDFLAGS "")
 SET(PC_CFLAGS "")
 
 CONFIGURE_FILE(${fw_name}.pc.in ${fw_name}.pc @ONLY)
 INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/include/privilege_checker.h DESTINATION /usr/include)
+INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/include/privilege_checker_extension.h DESTINATION /usr/include)
 INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/${fw_name}.pc DESTINATION ../lib/pkgconfig)
 
 
